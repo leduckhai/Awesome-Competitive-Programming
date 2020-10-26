@@ -28,6 +28,10 @@ Algorithms
 - [x] Unweighted Graph
 2. <ins>Count Luck</ins>
 - [x] Unweighted Graph (also for disconnected graph)
+3. <ins>Count Luck 2</ins>
+- [x] Graph Representation using Adjacency Matrix
+- [x] Un- and weighted Graph
+- [x] Dijkstra Shortest Path
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
