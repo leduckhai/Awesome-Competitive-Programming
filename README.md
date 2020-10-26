@@ -1,3 +1,5 @@
+# Awesome Competitive Programming Problems
+
 This repository contains my solutions for some awesome competitive programming problems
 
 I create this storage for faster implementation of further contest problems
@@ -11,7 +13,7 @@ Data structures
 Algorithms
 ----------
 
-### Sorting
+### Sorting Algorithm
 1. Lily's Homework
 
 ### Searching Algorithm
