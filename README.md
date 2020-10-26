@@ -14,24 +14,24 @@ Algorithms
 ----------
 
 ### Sorting Algorithm
-1. Lily's Homework
+1. <ins>Lily's Homework</ins>
 
 ### Searching Algorithm
-1. Lily's Homework
+1. <ins>Lily's Homework</ins>
 - [x] Breadth-First Search Shortest Path
-2. Count Luck
+2. <ins>Count Luck</ins>
 - [x] Breadth-First Search Shortest Path
 
 ### Graph Theory
-1. Lily's Homework
+1. <ins>Lily's Homework</ins>
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph
-2. Count Luck
+2. <ins>Count Luck</ins>
 - [x] Unweighted Graph (also for disconnected graph)
 
 ### Greedy Algorithm
-1. Sherlock and The Beast
-2. Largest Permutation
+1. <ins>Sherlock and The Beast</ins>
+2. <ins>Largest Permutation</ins>
 
 ### Dynamic Programming
 
