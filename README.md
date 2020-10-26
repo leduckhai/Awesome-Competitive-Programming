@@ -31,7 +31,7 @@ Algorithms
 3. <ins>Count Luck 2</ins>
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
-- [x] Dijkstra Shortest Path
+- [x] Dijkstra Shortest Path (also for disconnected graph)
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
