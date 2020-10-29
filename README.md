@@ -23,6 +23,8 @@ Algorithms
 - [x] Breadth-First Search Shortest Path
 3. KnightL on a Chessboard
 - [x] Breadth-First Search Shortest Path
+4. Connected Cells in a Grid
+- [x] Breadth-First Search
 
 ### Graph Theory
 1. <ins>Lily's Homework</ins>
@@ -38,6 +40,10 @@ Algorithms
 4. KnightL on a Chessboard
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
+5. Connected Cells in a Grid
+- [x] Graph Representation using Adjacency List
+- [x] Unweighted Graph (also for disconnected graph)
+- [x] Connected Components
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
