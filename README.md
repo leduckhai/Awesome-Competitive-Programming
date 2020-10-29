@@ -21,6 +21,8 @@ Algorithms
 - [x] Breadth-First Search Shortest Path
 2. <ins>Count Luck</ins>
 - [x] Breadth-First Search Shortest Path
+3. KnightL on a Chessboard
+- [x] Breadth-First Search Shortest Path
 
 ### Graph Theory
 1. <ins>Lily's Homework</ins>
@@ -33,6 +35,9 @@ Algorithms
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
 - [x] Dijkstra Shortest Path (also for disconnected graph)
+4. KnightL on a Chessboard
+- [x] Graph Representation using Adjacency List
+- [x] Unweighted Graph (also for disconnected graph)
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
