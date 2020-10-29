@@ -27,6 +27,7 @@ Algorithms
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph
 2. <ins>Count Luck</ins>
+- [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
 3. <ins>Count Luck 2</ins>
 - [x] Graph Representation using Adjacency Matrix
