@@ -47,7 +47,8 @@ Algorithms
 - [x] Unweighted Graph (also for disconnected graph)
 - [x] Connected Components
 6. Red Knight's Shortest Path
-- [x] Graph Representation using Adjacency List (improved)
+- [x] Graph Representation using Adjacency List 
+- [x] Find all nodes in graph
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
