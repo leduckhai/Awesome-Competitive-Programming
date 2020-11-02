@@ -25,6 +25,8 @@ Algorithms
 - [x] Breadth-First Search Shortest Path
 4. Connected Cells in a Grid
 - [x] Breadth-First Search
+5. Red Knight's Shortest Path
+- [x] Find all paths between 2 nodes using Breadth-First Search
 
 ### Graph Theory
 1. <ins>Lily's Homework</ins>
@@ -44,6 +46,8 @@ Algorithms
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
 - [x] Connected Components
+6. Red Knight's Shortest Path
+- [x] Graph Representation using Adjacency List (improved)
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
