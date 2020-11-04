@@ -56,7 +56,8 @@ Algorithms
 
 ### Dynamic Programming
 1. <ins>The Coin Change Problem</ins>
-
+2. <ins>The Maximum Subarray</ins>
+- [x] Kadane's Algorithm
 
 ### Recursion
 
