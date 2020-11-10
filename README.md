@@ -58,7 +58,7 @@ Algorithms
 - [x] Longest Common Subsequence Algorithm
 
 ### Mathematics
-1. <ins>Multiples of 3 and 5.pdf</ins>
+1. <ins>Multiples of 3 and 5</ins>
 - [x] Find Sum of Multiples of a Number
 
 ### Recursion
