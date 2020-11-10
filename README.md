@@ -13,7 +13,7 @@ Data structures
 Algorithms
 ----------
 
-### [Searching and Graph Algorithms](https://github.com/leduckhai/Awesome-Competitive-Programming/tree/main/Searching%20and%20Graph%20Algorithms)
+### Searching and Graph Algorithms
 1. [Lily's Homework](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Lily's_Homework.ipynb)
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph
@@ -42,15 +42,15 @@ Algorithms
 
 6. [Red Knight's Shortest Path](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Red_Knight's_Shortest_Path.ipynb)
 - [x] Graph Representation using Adjacency List 
-- [x] Find all nodes in graph
+- [x] Find all nodes in graph - *O(VE) for Adjacency List*
 - [x] Find all paths between 2 nodes using Breadth-First Search
 
-### [Greedy Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/tree/main/Greedy%20Algorithm)
+### Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
 
 2. [Largest Permutation](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Largest_Permutation.ipynb)
 
-### [Dynamic Programming](https://github.com/leduckhai/Awesome-Competitive-Programming/tree/main/Dynamic%20Programming)
+### Dynamic Programming
 1. [The Coin Change Problem](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Coin_Change_Problem.ipynb)
 - [x] Coin Change Algorithms
 
@@ -60,7 +60,7 @@ Algorithms
 3. [Common Child](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.ipynb)
 - [x] Longest Common Subsequence Algorithm
 
-### [Mathematics](https://github.com/leduckhai/Awesome-Competitive-Programming/tree/main/Mathematics)
+### Mathematics
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
 - [x] Find Sum of Multiples of a Number - *O(1)*
 
