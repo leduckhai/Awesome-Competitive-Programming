@@ -12,10 +12,6 @@ Data structures
 
 Algorithms
 ----------
-
-### Sorting Algorithm
-1. <ins>Lily's Homework</ins>
-
 ### Searching Algorithm
 1. <ins>Lily's Homework</ins>
 - [x] Breadth-First Search Shortest Path
