@@ -57,6 +57,10 @@ Algorithms
 3. <ins>Common Child</ins>
 - [x] Longest Common Subsequence Algorithm
 
+### Mathematics
+1. <ins>Multiples of 3 and 5.pdf</ins>
+- [x] Find Sum of Multiples of a Number
+
 ### Recursion
 
 
