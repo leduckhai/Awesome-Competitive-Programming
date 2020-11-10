@@ -12,39 +12,38 @@ Data structures
 
 Algorithms
 ----------
-### Searching Algorithm
-1. <ins>Lily's Homework</ins>
-- [x] Breadth-First Search Shortest Path
-2. <ins>Count Luck</ins>
-- [x] Breadth-First Search Shortest Path
-3. <ins>KnightL on a Chessboard</ins>
-- [x] Breadth-First Search Shortest Path
-4. <ins>Connected Cells in a Grid</ins>
-- [x] Breadth-First Search
-5. <ins>Red Knight's Shortest Path</ins>
-- [x] Find all paths between 2 nodes using Breadth-First Search
 
-### Graph Theory
+### Searching and Graph Algorithms
 1. <ins>Lily's Homework</ins>
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph
+- [x] Breadth-First Search Shortest Path
+
 2. <ins>Count Luck</ins>
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
+- [x] Breadth-First Search Shortest Path
+
 3. <ins>Count Luck 2</ins>
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
 - [x] Dijkstra Shortest Path (also for disconnected graph)
+
 4. <ins>KnightL on a Chessboard</ins>
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
+- [x] Breadth-First Search Shortest Path
+
 5. <ins>Connected Cells in a Grid</ins>
 - [x] Graph Representation using Adjacency List
 - [x] Unweighted Graph (also for disconnected graph)
 - [x] Connected Components
+- [x] Breadth-First Search
+
 6. <ins>Red Knight's Shortest Path</ins>
 - [x] Graph Representation using Adjacency List 
 - [x] Find all nodes in graph
+- [x] Find all paths between 2 nodes using Breadth-First Search
 
 ### Greedy Algorithm
 1. <ins>Sherlock and The Beast</ins>
