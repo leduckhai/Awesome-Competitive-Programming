@@ -66,10 +66,10 @@ Algorithms
 - [x] Find Sum of Multiples of a Number - *O(1)*
 
 2. [Largest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Prime_Factor.ipynb)
-- [x] Find All Prime Factors of a Number - *O(sqrt(n))*
+- [x] Find All Prime Factors of a Number - *O(sqrt(n))* 
 
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
-- [x] Find All Factors of a Number - *O(sqrt(n))*
+- [x] Find All Factors of a Number - <img src="https://render.githubusercontent.com/render/math?math=O(\sqrt n)">
 
 ### Recursion
 
