@@ -43,19 +43,20 @@ Algorithms
 6. [Red Knight's Shortest Path](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Red_Knight's_Shortest_Path.ipynb)
 - [x] Graph Representation using Adjacency List 
 - [x] Find all nodes in graph - *O(VE) for Adjacency List*
-- [x] Find all paths between 2 nodes using Breadth-First Search
+- [x] Find all paths between 2 nodes using Breadth-First Search - *NP-Hard*
 
 ### Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
 
 2. [Largest Permutation](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Largest_Permutation.ipynb)
+- [x] Swap 2 digits of a number k times to get largest number - *O(n)*
 
 ### Dynamic Programming
 1. [The Coin Change Problem](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Coin_Change_Problem.ipynb)
-- [x] Coin Change Algorithms
+- [x] Coin Change Algorithms - *O(Coins*Value)*
 
 2. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
-- [x] Kadane's Algorithm
+- [x] Kadane's Algorithm: Find the largest sum of any contiguous subarray - *O(n)*
 
 3. [Common Child](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.ipynb)
 - [x] Longest Common Subsequence Algorithm
