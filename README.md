@@ -63,7 +63,7 @@ Algorithms
 
 ### Mathematics
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
-- [x] Find Sum of Multiples of a Number - *O(1)* <img src="https://render.githubusercontent.com/render/math?math=O(1)">
+- [x] Find Sum of Multiples of a Number - <img src="https://render.githubusercontent.com/render/math?math=O(1)">
 
 2. [Largest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Prime_Factor.ipynb)
 - [x] Find All Prime Factors of a Number - <img src="https://render.githubusercontent.com/render/math?math=O (\sqrt n)">
