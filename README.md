@@ -27,7 +27,7 @@ Algorithms
 3. [Count Luck 2](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Count_Luck_2.ipynb)
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
-- [x] Dijkstra Shortest Path (also for disconnected graph) - *O(ELogV)* <img src="https://render.githubusercontent.com/render/math?math=O(E \log V)">
+- [x] Dijkstra Shortest Path (also for disconnected graph) - <img src="https://render.githubusercontent.com/render/math?math=O(E \log V)">
 
 4. [KnightL on a Chessboard](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/KnightL_on_a_Chessboard.ipynb)
 - [x] Graph Representation using Adjacency List
