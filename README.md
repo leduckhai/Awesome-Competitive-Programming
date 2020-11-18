@@ -1,6 +1,6 @@
 # Awesome Competitive Programming Problems
 
-This repository contains my solutions for some awesome competitive programming problems
+This repository contains my solutions for some awesome competitive programming problems in Hackerrank
 
 I create this storage for faster implementation of further contest problems
 
