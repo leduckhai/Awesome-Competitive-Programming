@@ -62,7 +62,7 @@ Algorithms
 - [x] Longest Common Subsequence Algorithm: Find the length of longest string S, S is child of S1 and S2 - **O(|S1|.|S2|)**
 
 4. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
-- [x] Find maximum sum from top to bottom of triangular array
+- [x] Find Maximum Sum from Top to Bottom of Triangular Array
 
 ### Mathematics
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
