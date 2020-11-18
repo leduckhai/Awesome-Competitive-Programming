@@ -61,6 +61,9 @@ Algorithms
 3. [Common Child](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.ipynb)
 - [x] Longest Common Subsequence Algorithm: Find the length of longest string S, S is child of S1 and S2 - <img src="https://render.githubusercontent.com/render/math?math=O(|S1|.|S2|)">
 
+4. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
+- [x] Find maximum sum from top to bottom of triangular array
+
 ### Mathematics
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
 - [x] Find Sum of Multiples of a Number - <img src="https://render.githubusercontent.com/render/math?math=O(1)">
@@ -76,6 +79,10 @@ Algorithms
 
 5. [10001st Prime](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/10001st_Prime.ipynb)
 - [x] Find All Primes < n using "Sieve Method" - <img src="https://render.githubusercontent.com/render/math?math=O (\sqrt n)">
+
+6. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
+- [x] Binomial Coefficient Problems: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+
 ### Recursion
 
 
