@@ -1,8 +1,8 @@
 # Awesome Competitive Programming Problems
 
-This repository contains my solutions for some awesome competitive programming problems in Hackerrank
+This repository contains my solutions for some **awesome** competitive programming problems in Hackerrank
 
-I create this storage for faster implementation of further contest problems
+I create this for interview preparation and faster implementation in programming contest
 
 Written in Python 3
 
