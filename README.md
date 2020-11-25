@@ -62,7 +62,7 @@ Algorithms
 - [x] Longest Common Subsequence Algorithm: Find the length of longest string S, S is child of S1 and S2 - **O(|S1|.|S2|)**
 
 4. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
-- [x] Find Maximum Sum from Top to Bottom of Triangular Array
+- Find Maximum Sum from Top to Bottom of Triangular Array
 
 ### Mathematics
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
@@ -81,7 +81,13 @@ Algorithms
 - [x] Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
 
 6. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
-- [x] Binomial Coefficient Problems: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+- Binomial Coefficient Problems: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+
+7. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
+- [x] Permutation Problems: Find n-th Lexicographic Permutation of a Word
+
+8. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
+- Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
 
