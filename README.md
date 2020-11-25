@@ -47,9 +47,10 @@ Algorithms
 
 ### Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
+- Find the "Decent Number" having n Digits ("Decent Number" has its digits to be only 3's and/or 5's; the number of 3's it contains is divisible by 5; the number of 5's it contains is divisible by 3; and it is the largest such number for its length)
 
 2. [Largest Permutation](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Largest_Permutation.ipynb)
-- [x] Swap 2 digits of a number k times to get largest number - **O(n)**
+- Swap 2 digits of a number k times to get largest number - **O(n)**
 
 ### Dynamic Programming
 1. [The Coin Change Problem](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Coin_Change_Problem.ipynb)
