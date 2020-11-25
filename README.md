@@ -78,8 +78,9 @@ Algorithms
 4. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
 - [x] Find Least Common Multiple of Multiple Numbers
 
-5. [10001st Prime](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/10001st_Prime.ipynb)
+5. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
 - [x] Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
+- [x] Determine a Prime Number n - **O(n<sup>1/2</sup>)**
 
 6. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
 - Binomial Coefficient Problems: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
