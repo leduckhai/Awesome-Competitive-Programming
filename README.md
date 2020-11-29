@@ -70,7 +70,7 @@ Algorithms
 - [x] Find Sum of Multiples of a Number - **O(1)**
 
 2. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] Find All Smallest Prime Factors for every Number <= N - **O(nloglogn)**
+- [x] Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
 - [x] Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
