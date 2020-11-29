@@ -69,8 +69,9 @@ Algorithms
 1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
 - [x] Find Sum of Multiples of a Number - **O(1)**
 
-2. [Largest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Prime_Factor.ipynb)
-- [x] Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)** 
+2. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
+- [x] Find All Smallest Prime Factors for every Number <= N - **O(nloglogn)**
+- [x] Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
 - [x] Find All Factors of a Number - **O(n<sup>1/2</sup>)**
