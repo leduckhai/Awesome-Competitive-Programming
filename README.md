@@ -12,9 +12,9 @@ How to use
 
 - : Solutions for some awesome competitive programming problems
 
-**Type** : Type of the Algorithm
+**Mathematics** : Type of the Algorithm
 
-**Category** : Category of the Problem
+**Permutation Problems** : Category of the Problem
 
 [Name](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/README.md) : Name of the problem
 
@@ -35,16 +35,12 @@ Awesome-Competitive-Programming
 └───...    
 ```
 
-Data structures
----------------
-
-
 Algorithms
 ----------
 ### Binary Search Tree Algorithm
 1. [Prime Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/Prime_Permutations.ipynb)
-- [x] **Binary Search Tree ALgorithm Applications**: Find a Number of a Sorted List - **O(logn)**
-- [x] **Binary Search Tree ALgorithm Applications**: Find the Index of a Number in a Sorted List - **O(logn)**
+- [x] **Binary Search Tree Algorithm Applications**: Find a Number of a Sorted List - **O(logn)**
+- [x] **Binary Search Tree Algorithm Applications**: Find the Index of a Number in a Sorted List - **O(logn)**
 
 ### Searching and Graph Algorithms
 1. [Lily's Homework](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Lily's_Homework.ipynb)
@@ -86,15 +82,18 @@ Algorithms
 - Swap 2 digits of a number k times to get largest number - **O(n)**
 
 ### Dynamic Programming
+#### Coin Change Algorithms
 1. [The Coin Change Problem](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Coin_Change_Problem.ipynb)
-- [x] **Coin Change Algorithms**: How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
+- [x] How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
 
+#### Subarray/Subsequence Problems
 2. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
-- [x] **Kadane's (Contiguous Subarray) Algorithm**: Find the largest sum of any contiguous subarray - **O(n)**
+- [x] Contiguous Subarray/Kadane's Algorithm: Find the largest sum of any contiguous subarray - **O(n)**
 
 3. [Common Child](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.ipynb)
-- [x] **Longest Common Subsequence Algorithm**: Find the length of longest string S, S is child of S1 and S2 - **O(|S1|.|S2|)**
+- [x] Longest Common Subsequence Algorithm: Find the length of longest string S, S is child of S1 and S2 - **O(|S1|.|S2|)**
 
+#### Non-categorized
 4. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
 - Find Maximum Sum from Top to Bottom of Triangular Array
 
