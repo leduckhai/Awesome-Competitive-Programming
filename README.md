@@ -87,14 +87,14 @@ Algorithms
 - [x] **Primes Problems/Factors Problems**: Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
 - [x] **Primes Problems/Factors Problems**: Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
-6. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
-- **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
-
-7. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
+6. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
 - [x] **Permutation Problems**: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
-8. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
+7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
 - [x] **Permutation Problems**: Check if 2 Numbers are Permutations - **O(n)**
+
+8. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
+- **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 9. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
