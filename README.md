@@ -97,22 +97,20 @@ Algorithms
 - Find Maximum Sum from Top to Bottom of Triangular Array
 
 ### Mathematics
-1. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
-- [x] **Multiples Problems**: Find Sum of Multiples of a Number - **O(1)**
+1. [Combinatoric Selections](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Combinatoric_Selections.ipynb)
+- [x] **Binomial Coefficient Problems**: Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
 
-2. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
-- [x] **Multiples Problems**: Find Least Common Multiple of Multiple Numbers
+2. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
+- **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
 - [x] **Factors Problems**: Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
-4. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
-- [x] **Primes Problems**: Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
-- [x] **Primes Problems**: Check if n is a Prime Number - **O(n<sup>1/2</sup>)**
+4. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
+- [x] **Multiples Problems**: Find Sum of Multiples of a Number - **O(1)**
 
-5. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] **Primes Problems/Factors Problems**: Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
-- [x] **Primes Problems/Factors Problems**: Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
+5. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
+- [x] **Multiples Problems**: Find Least Common Multiple of Multiple Numbers
 
 6. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
 - [x] **Permutation Problems**: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
@@ -120,11 +118,13 @@ Algorithms
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
 - [x] **Permutation Problems**: Check if 2 Numbers are Permutations - **O(n)**
 
-8. [Combinatoric Selections](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Combinatoric_Selections.ipynb)
-- [x] **Binomial Coefficient Problems**: Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
+8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
+- [x] **Primes Problems**: Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
+- [x] **Primes Problems**: Check if n is a Prime Number - **O(n<sup>1/2</sup>)**
 
-9. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
-- **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+9. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
+- [x] **Primes Problems/Factors Problems**: Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
+- [x] **Primes Problems/Factors Problems**: Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
 10. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
