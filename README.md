@@ -16,7 +16,7 @@ How to use
 
 **Permutation Problems** : Category of the Problem
 
-[Name](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/README.md) : Name of the problem
+[Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb) : Name of the problem
 
 ```
 Awesome-Competitive-Programming 
