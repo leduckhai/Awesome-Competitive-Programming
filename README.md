@@ -120,10 +120,13 @@ Algorithms
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
 - [x] **Permutation Problems**: Check if 2 Numbers are Permutations - **O(n)**
 
-8. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
+8. [Combinatoric Selections](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Combinatoric_Selections.ipynb)
+- [x] **Binomial Coefficient Problems**: Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
+
+9. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
 - **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
-9. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
+10. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
