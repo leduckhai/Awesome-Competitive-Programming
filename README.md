@@ -38,9 +38,10 @@ Awesome-Competitive-Programming
 Algorithms
 ----------
 ### Binary Search Tree Algorithm
+#### Binary Search Tree Algorithm Applications
 1. [Prime Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/Prime_Permutations.ipynb)
-- [x] **Binary Search Tree Algorithm Applications**: Find a Number of a Sorted List - **O(logn)**
-- [x] **Binary Search Tree Algorithm Applications**: Find the Index of a Number in a Sorted List - **O(logn)**
+- [x] Find a Number of a Sorted List - **O(logn)**
+- [x] Find the Index of a Number in a Sorted List - **O(logn)**
 
 ### Searching and Graph Algorithms
 1. [Lily's Homework](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Lily's_Homework.ipynb)
