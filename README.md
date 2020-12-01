@@ -12,6 +12,8 @@ How to use
 
 - : Solutions for some awesome competitive programming problems
 
+**Type** : Type of the Algorithm
+
 **Category** : Category of the Problem
 
 [Name](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/README.md) : Name of the problem
@@ -97,35 +99,42 @@ Algorithms
 - Find Maximum Sum from Top to Bottom of Triangular Array
 
 ### Mathematics
+#### Binomial Coefficient Problems
 1. [Combinatoric Selections](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Combinatoric_Selections.ipynb)
-- [x] **Binomial Coefficient Problems**: Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
+- [x] Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
 
 2. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
-- **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+- Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
+#### Factors Problems
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
-- [x] **Factors Problems**: Find All Factors of a Number - **O(n<sup>1/2</sup>)**
+- [x] Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
+#### Multiples Problems
 4. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
-- [x] **Multiples Problems**: Find Sum of Multiples of a Number - **O(1)**
+- [x] Find Sum of Multiples of a Number - **O(1)**
 
 5. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
-- [x] **Multiples Problems**: Find Least Common Multiple of Multiple Numbers
+- [x] Find Least Common Multiple of Multiple Numbers
 
+#### Permutation Problems
 6. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
-- [x] **Permutation Problems**: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
+- [x] Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
-- [x] **Permutation Problems**: Check if 2 Numbers are Permutations - **O(n)**
+- [x] Check if 2 Numbers are Permutations - **O(n)**
 
+#### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
-- [x] **Primes Problems**: Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
-- [x] **Primes Problems**: Check if n is a Prime Number - **O(n<sup>1/2</sup>)**
+- [x] Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
+- [x] Check if n is a Prime Number - **O(n<sup>1/2</sup>)**
 
+#### Primes Problems/Factors Problems
 9. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] **Primes Problems/Factors Problems**: Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
-- [x] **Primes Problems/Factors Problems**: Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
+- [x] Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
+- [x] Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
+#### Non-categorized
 10. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
 
