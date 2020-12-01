@@ -6,6 +6,33 @@ I create this for faster implementation in interviews and programming contests
 
 Written in Python 3
 
+How to use
+----------
+- [x] : Useful data structures or algorithms
+
+- : Solutions for some awesome competitive programming problems
+
+**Category** : Category of the Problem
+
+[Name](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/README.md) : Name of the problem
+
+```
+Awesome-Competitive-Programming 
+│   README.md 
+│
+└───Folder 1: Type of Algorithm 
+│   │   File1.ipynb : Python codes for the problem
+│   │   File1.pdf   : Descriptions and solution guides for the problem
+│   │   ...   
+│   
+└───Folder 2: Type of Algorithm
+│   │   File2.ipynb
+│   │   File2.pdf
+│   │   ...
+│
+└───...    
+```
+
 Data structures
 ---------------
 
