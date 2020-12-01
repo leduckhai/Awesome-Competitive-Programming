@@ -91,7 +91,7 @@ Algorithms
 - **Binomial Coefficient Problems**: Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 7. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
-- [x] **Permutation Problems**: Find n-th Lexicographic Permutation of a very long Word
+- [x] **Permutation Problems**: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 8. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
 - [x] **Permutation Problems**: Check if 2 Numbers are Permutations - **O(n)**
