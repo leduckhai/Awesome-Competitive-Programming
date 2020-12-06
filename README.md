@@ -22,7 +22,7 @@ How to use
 Awesome-Competitive-Programming 
 │   README.md 
 │
-└───Folder 1: Type of Algorithm 
+└───Folder 1        : Type of Algorithm 
 │   │   File1.ipynb : Python codes for the problem
 │   │   File1.pdf   : Descriptions and solution guides for the problem
 │   │   ...   
