@@ -27,7 +27,7 @@ Awesome-Competitive-Programming
 │   │   File1.pdf   : Descriptions and solution guides for the problem
 │   │   ...   
 │   
-└───Folder 2: Type of Algorithm
+└───Folder 2: 
 │   │   File2.ipynb
 │   │   File2.pdf
 │   │   ...
