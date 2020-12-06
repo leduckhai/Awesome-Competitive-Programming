@@ -126,16 +126,19 @@ Algorithms
 
 #### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
-- [x] Find All Primes < n using "Sieve Method" - **O(n<sup>1/2</sup>)**
-- [x] Check if n is a Prime Number - **O(n<sup>1/2</sup>)**
+- [x] "Sieve Method": Find All Primes < n - **O(n<sup>1/2</sup>)**
+- [x] Common Primality Test: Check if n is a Prime Number using "Common Method" - **O(n<sup>1/2</sup>)**
+
+9. [Spiral Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Spiral_Primes.ipynb)
+- [x] Miller-Rabin Primality Test: Check if n is a Prime Number using Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
 
 #### Primes Problems/Factors Problems
-9. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
+10. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
 - [x] Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
 - [x] Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
 
 #### Non-categorized
-10. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
+11. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
