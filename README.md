@@ -132,13 +132,17 @@ Algorithms
 9. [Spiral Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Spiral_Primes.ipynb)
 - [x] Miller-Rabin Primality Test: Check if n is a Prime Number using Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
 
+10. [Totient Maximum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Totient_Maximum.ipynb)
+- [x] Euler Totient Function: Find the Number of Coprimes less than n - **O(n.loglogn + logn + k)** , k is the number of prime factors of n
+- [x] Coprimes Check: Check if 2 Numbers are Coprime - **O(log a.b)**
+
 #### Primes Problems/Factors Problems
-10. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
+11. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
 - [x] Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
 - [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** 
 
 #### Non-categorized
-11. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
+12. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
 - Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
