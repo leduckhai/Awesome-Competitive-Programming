@@ -122,7 +122,7 @@ Algorithms
 - [x] Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
-- [x] Check if 2 Numbers are Permutations - **O(n)**
+- [x] Check if 2 Numbers are Permutations - **O(n)** , n = max(|S_n1|,|S_n2|,10)
 
 #### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
@@ -134,8 +134,8 @@ Algorithms
 
 #### Primes Problems/Factors Problems
 10. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] Find Smallest Prime Factors for every Number <= N - **O(nloglogn)**
-- [x] Find All Prime Factors of a Number (Prime Factorization) - **O(log n)** 
+- [x] Find Smallest Prime Factors for every Number <= N - **O(n.loglogn)** 
+- [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** 
 
 #### Non-categorized
 11. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
