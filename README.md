@@ -134,7 +134,7 @@ Algorithms
 
 #### Primes Problems/Factors Problems
 10. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] Find Smallest Prime Factors for every Number <= N - **O(n.loglogn)** 
+- [x] Find Smallest Prime Factors for All Numbers <= N - **O(n.loglogn)** 
 - [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** 
 
 #### Non-categorized
