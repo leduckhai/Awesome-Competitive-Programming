@@ -122,7 +122,7 @@ Algorithms
 - [x] Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
-- [x] Check if 2 Numbers are Permutations - **O(n)** , n = max(|S_n1|,|S_n2|,10)
+- [x] Check if 2 Numbers are Permutations - **O(n)** , n = max(|Sn1|,|Sn2|,10)
 
 #### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
@@ -133,13 +133,13 @@ Algorithms
 - [x] Miller-Rabin Primality Test: Check if n is a Prime Number using Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
 
 10. [Totient Maximum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Totient_Maximum.ipynb)
-- [x] Euler Totient Function: Find the Number of Coprimes less than n - **O(n.loglogn + logn + k)** , k is the number of prime factors of n
+- [x] Euler Totient Function: Find the Number of Coprimes less than n - **O(n.loglogn + logn + k)** , k is the number of prime factors of n **sai; cần chỉnh thành 2 ver. tiotient query và single**
 - [x] Coprimes Check: Check if 2 Numbers are Coprime - **O(log a.b)**
 
 #### Primes Problems/Factors Problems
 11. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
-- [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** 
+- [x] Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** **cần chỉnh tên biến thành SPFs**
+- [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** **cái này sử dụng spf (dành cho query), cần thêm prime factorization sqrt(n)**
 
 #### Non-categorized
 12. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
