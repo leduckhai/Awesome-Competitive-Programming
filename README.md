@@ -141,9 +141,9 @@ Algorithms
 
 11. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
 
- **cái này sử dụng spf (dành cho query), cần thêm prime factorization sqrt(n)**
+**cái này sử dụng spf (dành cho query), cần thêm prime factorization sqrt(n)**
  
-12. -[x] [Prime Factorization using Smallest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
+13. - [x] [Prime Factorization using Smallest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
 
 #### Non-categorized
 12. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
