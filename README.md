@@ -126,7 +126,7 @@ Algorithms
 
 #### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
-- [x] "Sieve Method": Find All Primes < n - **O(n<sup>1/2</sup>)**
+- [x] "Sieve Method" Primes: Find All Primes < n - **O(n<sup>1/2</sup>)**
 - [x] Common Primality Test: Check if n is a Prime Number using "Common Method" - **O(n<sup>1/2</sup>)**
 
 9. [Spiral Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Spiral_Primes.ipynb)
@@ -138,7 +138,7 @@ Algorithms
 
 #### Primes Problems/Factors Problems
 11. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
-- [x] Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** **cần chỉnh tên biến thành SPFs**
+- [x] "Sieve Method" Smallest Prime Factors (SPF): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** **cần chỉnh tên biến thành SPFs**
 - [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** **cái này sử dụng spf (dành cho query), cần thêm prime factorization sqrt(n)**
 
 #### Non-categorized
