@@ -139,7 +139,7 @@ Algorithms
 #### Primes Problems/Factors Problems
 11. [Distinct Primes Factors](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb)
 
-11. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Distinct_Primes_Factors.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
+11. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
 
 - [x] Prime Factorization: Find All Prime Factors of a Number - **O(log n)** **cái này sử dụng spf (dành cho query), cần thêm prime factorization sqrt(n)**
 
