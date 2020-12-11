@@ -102,7 +102,7 @@ Algorithms
 #### Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
-2.- [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.pdf): Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+2. - [ ] [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb) [[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.pdf): Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 #### Factors Problems
 3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
