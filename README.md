@@ -137,7 +137,7 @@ Algorithms
 - [x] Coprimes Check: Check if 2 Numbers are Coprime - **O(log a.b)**
 
 #### Primes-Factors Problems
-11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler totient function **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
+11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler totient function - **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
       
 12. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
  
