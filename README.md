@@ -1,6 +1,6 @@
 # Awesome Competitive Programming Problems
 
-This repository contains my implementation of useful data structures, algorithms and solutions for some **awesome** competitive programming problems in Hackerrank
+This repository contains my implementation of useful **data structures**, **algorithms** and **solutions** for some awesome competitive programming problems in Hackerrank and Project Euler
 
 I create this for faster implementation in interviews and programming contests
 
@@ -10,7 +10,7 @@ How to use
 ----------
 - [x] : Useful data structures or algorithms
 
-- : Solutions for some awesome competitive programming problems
+- [ ] : Solutions for some awesome competitive programming problems
 
 **Mathematics** : Type of the Algorithm
 
