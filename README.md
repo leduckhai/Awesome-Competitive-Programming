@@ -120,8 +120,7 @@ Algorithms
 
 8. - [x] [Primality Test (Common Method)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/isPrime.ipynb): Check if n is a Prime Number using "Common Method" - **O(n<sup>1/2</sup>)**
 
-9. [Spiral Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Spiral_Primes.ipynb)
-- [x] Miller-Rabin Primality Test: Check if n is a Prime Number using Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
+9. - [x] [Primality Test (Miller-Rabin)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/isPrime_Miller_Rabin.ipynb): Check if n is a Prime Number using Miller-Rabin Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
 
 10. [Totient Maximum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Totient_Maximum.ipynb)
 - [x] Euler Totient Function: Find the Number of Coprimes less than n - **O(n.loglogn + logn + k)** , k is the number of prime factors of n **sai; cần chỉnh thành 2 ver. tiotient query và single**
