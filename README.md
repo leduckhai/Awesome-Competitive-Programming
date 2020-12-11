@@ -100,8 +100,7 @@ Algorithms
 
 ### Mathematics
 #### Binomial Coefficient Problems
-1. [Combinatoric Selections](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Combinatoric_Selections.ipynb)
-- [x] Create Pascal Triangle (to calculate multiple large-number Combinations) - **O(n<sup>2</sup>)**
+1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
 2. [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)
 - Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
