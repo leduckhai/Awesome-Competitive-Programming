@@ -108,14 +108,10 @@ Algorithms
 3. - [x] [Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Factorization.ipynb): Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### Multiples Problems
-4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb) [[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.pdf): Find Sum of Multiples of a Number - **O(1)**
-
-5. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
-- [x] Find Least Common Multiple of Multiple Numbers
+4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
 
 #### Permutation Problems
-6. [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)
-- [x] Find n-th Lexicographic Permutation of a very long Word - **O(n)**
+6. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
 - [x] Check if 2 Numbers are Permutations - **O(n)** , n = max(|Sn1|,|Sn2|,10)
