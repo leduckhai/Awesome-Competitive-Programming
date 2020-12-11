@@ -137,13 +137,15 @@ Algorithms
 - [x] Coprimes Check: Check if 2 Numbers are Coprime - **O(log a.b)**
 
 #### Primes-Factors Problems
-11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler totient function - **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
+11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler Totient Function - **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
       
-12. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
- 
-13. - [x] [Prime Factorization using Smallest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
+12. - [x] [Euler Totient Function (Single Number)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_SingleNum.ipynb): Find the Number of Coprimes < n based on Euler Totient Function - **O(n<sup>1/2</sup> + k)** , k is the number of prime factors of the input number n
 
-14. - [x] [Prime Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization.ipynb): Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)**
+13. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
+ 
+14. - [x] [Prime Factorization using Smallest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
+
+15. - [x] [Prime Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization.ipynb): Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### Non-categorized
 12. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
