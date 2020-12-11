@@ -102,15 +102,13 @@ Algorithms
 #### Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
-2. - [ ] [Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb) [[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.pdf): Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+2. - [ ] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb) [[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.pdf): Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 #### Factors Problems
-3. [Largest Palindrome Product](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Largest_Palindrome_Product.ipynb)
-- [x] Find All Factors of a Number - **O(n<sup>1/2</sup>)**
+3. - [x] [Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Factorization.ipynb): Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### Multiples Problems
-4. [Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)
-- [x] Find Sum of Multiples of a Number - **O(1)**
+4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb) [[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.pdf): Find Sum of Multiples of a Number - **O(1)**
 
 5. [Smallest Multiple](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Smallest_Multiple.ipynb)
 - [x] Find Least Common Multiple of Multiple Numbers
