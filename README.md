@@ -111,10 +111,9 @@ Algorithms
 4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
 
 #### Permutation Problems
-6. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
+5. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
-7. [Permuted Multiples](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Permuted_Multiples.ipynb)
-- [x] Check if 2 Numbers are Permutations - **O(n)** , n = max(|Sn1|,|Sn2|,10)
+6. - [x] [Permutation Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/arePermutations.ipynb): Check if 2 Numbers/Strings are Permutations - **O(n)** , n = max(|a|,|b|)
 
 #### Primes Problems
 8. [Circular Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Circular_Primes.ipynb)
@@ -135,7 +134,7 @@ Algorithms
 
 13. - [x] ["Sieve Method" Smallest Prime Factors (SPF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_SPF.ipynb): Find Smallest Prime Factors for All Numbers < N - **O(n.loglogn)** 
  
-14. - [x] [Prime Factorization using Smallest Prime Factor](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
+14. - [x] [Prime Factorization (Smallest Prime Factor)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization_SPF.ipynb): Find All Prime Factors of a Number using Smallest Prime Factor (SPF) - **O(log n)** if a list of all Smallest Prime Factors from 0 to n available
 
 15. - [x] [Prime Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization.ipynb): Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)**
 
