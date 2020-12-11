@@ -122,9 +122,7 @@ Algorithms
 
 9. - [x] [Primality Test (Miller-Rabin)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/isPrime_Miller_Rabin.ipynb): Check if n is a Prime Number using Miller-Rabin Probabilistic Test - **O(k.log<sup>3</sup>n)** , k = \[1,2,...]
 
-10. [Totient Maximum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Totient_Maximum.ipynb)
-- [x] Euler Totient Function: Find the Number of Coprimes less than n - **O(n.loglogn + logn + k)** , k is the number of prime factors of n **sai; cần chỉnh thành 2 ver. tiotient query và single**
-- [x] Coprimes Check: Check if 2 Numbers are Coprime - **O(log a.b)**
+10. - [x] [Coprimes Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/areCoprimes.ipynb): Check if 2 Numbers are Coprime - **O(log a.b)**
 
 #### Primes-Factors Problems
 11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler Totient Function - **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
@@ -138,8 +136,7 @@ Algorithms
 15. - [x] [Prime Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization.ipynb): Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### Non-categorized
-12. [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)
-- Find Sum of Diagonals of Ulam Spiral Matrix
+16. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
 
