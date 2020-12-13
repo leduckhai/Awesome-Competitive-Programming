@@ -43,6 +43,12 @@ Algorithms
 - [x] Find a Number of a Sorted List - **O(logn)**
 - [x] Find the Index of a Number in a Sorted List - **O(logn)**
 
+### String Algorithm
+#### Suffix Tree - Suffix Array
+1. - [x] [Suffix Array (Manber-Myers Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/SuffixArray_ManberMyers.ipynb): Find suffix array of a string S based on Manber-Myers algorithm - **O(n.log(n))** , n = |S|
+
+2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
+
 ### Searching and Graph Algorithms
 1. [Lily's Homework](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Lily's_Homework.ipynb)
 - [x] Graph Representation using Adjacency List
