@@ -87,10 +87,9 @@ Algorithms
 1. - [x] [Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/CoinChange.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Coin_Change_Problem.pdf)</sup>: How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
 
 #### Subarray/Subsequence Problems
-2. [Common Child](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.pdf)</sup>:
-- [x] Longest Common Subsequence Algorithm: Find the length of longest string S, S is child of S1 and S2 - **O(|S1|.|S2|)**
+2. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
 
-2. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
+3. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
 - [x] Contiguous Subarray/Kadane's Algorithm: Find the largest sum of any contiguous subarray - **O(n)**
 
 
