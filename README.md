@@ -100,6 +100,12 @@ Algorithms
 4. - [x] [Min Path Sum Matrix: Top-Left to Right-Bottom, Right and Down Moves](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_PathSum_Matrix.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PE81_PathSum_2Ways.pdf)</sup>: Find Min Path Sum from Top-Left to Right-Bottom of a Matrix using Right and Down Moves - **O(R.C)** , R, C is length of row and column of the matrix
 
 #### Subarray/Subsequence/Substring Problems
+Subsequence = Any subset of an array/string
+
+Subarray = Contiguous subsequence of an array
+
+Substring = Contiguous subsequence of a string
+
 5. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
 - [x] Contiguous Subarray/Kadane's Algorithm: Find the largest sum of any contiguous subarray - **O(n)**
 
