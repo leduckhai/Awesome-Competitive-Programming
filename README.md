@@ -101,7 +101,7 @@ Algorithms
 
 #### Subarray/Subsequence/Substring Problems
 
-> Subsequence = Any subset of an array/string
+> Subsequence = Any subset of an array/string 
 >
 > Subarray = Contiguous subsequence of an array
 >
