@@ -94,17 +94,23 @@ Algorithms
 
 2. - [x] [Integer Partition](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/IntegerPartition.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Coin_Partitions.pdf)</sup>: How many ways to partition number N using [1,2,...N] numbers - **O(n<sup>1.5</sup>)**
 
-#### Subarray/Subsequence Problems
-3. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
+#### Path Sum Problems
+3. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
+- Find Maximum Sum from Top to Bottom of Triangular Array
 
-4. - [x] [Longest Common Substring (Longest Common Factor - LCF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Common_Substring.ipynb): Find the Longest Common Substring (Factor) of 2 strings S1 and S2 - **O(|S1|.|S2|)** 
+4. - [x] [Min Cost Path: Top-Left to Right-Bottom, Right and Down Moves](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/MinCostPath.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.pdf)</sup>: Find Min Path Sum from Top-Left to Right-Bottom of a Matrix using Right and Down Moves - **O(R.C)** , R, C is length of row and column of the matrix
 
-3. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
+#### Subarray/Subsequence/Substring Problems
+5. [The Maximum Subarray](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.ipynb)
 - [x] Contiguous Subarray/Kadane's Algorithm: Find the largest sum of any contiguous subarray - **O(n)**
 
+6. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Common_Child.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
+
+7. - [x] [Longest Common Substring (Longest Common Factor - LCF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Common_Substring.ipynb): Find the Longest Common Substring (Factor) of 2 strings S1 and S2 - **O(|S1|.|S2|)** 
+
+8. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
+
 #### Non-categorized
-4. [Maximum Path Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Maximum_Path_Sum.ipynb)
-- Find Maximum Sum from Top to Bottom of Triangular Array
 
 ### Mathematics
 #### Binomial Coefficient Problems
