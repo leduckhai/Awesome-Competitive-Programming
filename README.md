@@ -117,8 +117,6 @@ Algorithms
 
 9. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
-#### Non-categorized
-
 ### Mathematics
 #### Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
