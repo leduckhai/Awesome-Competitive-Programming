@@ -102,9 +102,9 @@ Algorithms
 #### Subarray/Subsequence/Substring Problems
 
 > Subsequence = Any subset of an array/string 
->
+
 > Subarray = Contiguous subsequence of an array
->
+
 > Substring = Contiguous subsequence of a string
 
 5. - [x] [Max Subarray Sum (Kadane Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/The_Maximum_Subarray.pdf)</sup>: Find Maximum Subarray Sum of an Array - **O(n)**
