@@ -130,16 +130,16 @@ Algorithms
 #### Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
-2. - [ ] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.pdf)</sup> : Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+2. - [ ] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lattice_Paths.pdf)</sup> : Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 #### Factors Problems
 3. - [x] [Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Factorization.ipynb): Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### Multiples Problems
-4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
+4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
 
 #### Permutation Problems
-5. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
+5. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 6. - [x] [Permutation Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/arePermutations.ipynb): Check if 2 Numbers/Strings are Permutations - **O(n)** , n = max(|a|,|b|)
 
@@ -169,7 +169,7 @@ Algorithms
 17. - [x] [Pythagorean Triplets Less or Equal N](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PythagoreanTriplets_LessEqualN.ipynb): Generate all Pythagorean Triplets <= N - **O(N.log(N))**
 
 #### Non-categorized
-18. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
+18. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion
 
