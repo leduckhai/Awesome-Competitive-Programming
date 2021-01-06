@@ -38,7 +38,7 @@ Awesome-Competitive-Programming
 Algorithms
 ----------
 ### A) Binary Search Tree Algorithm
-1. - [x] [_______](_______): ______ - **O(log(n))**
+1. - [x] [Binary Search Tree](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST.ipynb): Original Binary Search Tree Algorithm - **O(log(n))**
 
 2. - [x] [Binary Search Tree: Check a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST_Find.ipynb): Check if a Number is in a Sorted List using BST Algorithm - **O(log(n))**
 
