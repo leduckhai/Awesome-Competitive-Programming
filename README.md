@@ -38,10 +38,11 @@ Awesome-Competitive-Programming
 Algorithms
 ----------
 ### A) Binary Search Tree Algorithm
-#### Binary Search Tree Algorithm Applications
-1. [Prime Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/Prime_Permutations.ipynb)
-- [x] Find a Number of a Sorted List - **O(logn)**
-- [x] Find the Index of a Number in a Sorted List - **O(logn)**
+1. - [x] [_______](_______): ______ - **O(log(n))**
+
+2. - [x] [Binary Search Tree: Check a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST_Find.ipynb): Check if a Number is in a Sorted List using BST Algorithm - **O(log(n))**
+
+3. - [x] [Binary Search Tree: Index of a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST_Find_Index.ipynb): Find the Index of a Number in a Sorted List using BST Algorithm - **O(log(n))**
 
 ### B) String Algorithm
 #### Suffix Tree - Suffix Array
