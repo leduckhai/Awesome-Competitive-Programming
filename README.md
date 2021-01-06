@@ -55,7 +55,7 @@ Algorithms
 2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
 
 ### C) Searching and Graph Algorithms
-1. - [x] [Graph Representation using Adjacency List: Unweighted, Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Directed Graph using Adjacency List
+1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
 
 2. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path based on BFS - **O(V+E)** , V, E is the number of vertices and edges
 
@@ -64,11 +64,6 @@ Algorithms
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
 - [x] Dijkstra Shortest Path (also for disconnected graph) - **O(E.log V)**
-
-4. [KnightL on a Chessboard](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/KnightL_on_a_Chessboard.ipynb)
-- [x] Graph Representation using Adjacency List
-- [x] Unweighted Graph (also for disconnected graph)
-- [x] Breadth-First Search Shortest Path - **O(V+E)**
 
 5. [Connected Cells in a Grid](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Connected_Cells_in_a_Grid.ipynb)
 - [x] Graph Representation using Adjacency List
