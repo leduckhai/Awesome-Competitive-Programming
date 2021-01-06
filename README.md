@@ -6,6 +6,10 @@ I create this for faster implementation in interviews and programming contests
 
 Written in Python 3
 
+<p align="center"> 
+      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400" title="hover text"> 
+</p>
+
 How to use
 ----------
 - [x] : Useful data structures or algorithms
