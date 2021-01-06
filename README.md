@@ -68,12 +68,6 @@ Algorithms
 - [x] Un- and weighted Graph
 - [x] Dijkstra Shortest Path (also for disconnected graph) - **O(E.log V)**
 
-5. [Connected Cells in a Grid](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Connected_Cells_in_a_Grid.ipynb)
-- [x] Graph Representation using Adjacency List
-- [x] Unweighted Graph (also for disconnected graph)
-- [x] Connected Components
-- [x] Breadth-First Search - **O(V+E) for Adjacency List**
-
 6. [Red Knight's Shortest Path](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Red_Knight's_Shortest_Path.ipynb)
 - [x] Graph Representation using Adjacency List 
 - [x] Find all nodes in graph - **O(VE) for Adjacency List**
