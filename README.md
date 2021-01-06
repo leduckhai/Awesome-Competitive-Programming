@@ -66,13 +66,6 @@ Algorithms
 
 5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Graph using BFS - **NP-Hard** 
 
-#### Nháp
-3. [Count Luck 2](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Count_Luck_2.ipynb)
-- [x] Graph Representation using Adjacency Matrix
-- [x] Un- and weighted Graph
-- [x] Dijkstra Shortest Path (also for disconnected graph) - **O(E.log V)**
-
-
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
 - Find the "Decent Number" having n Digits ("Decent Number" has its digits to be only 3's and/or 5's; the number of 3's it contains is divisible by 5; the number of 5's it contains is divisible by 3; and it is the largest such number for its length)
