@@ -64,16 +64,14 @@ Algorithms
 
 4. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
+5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Graph using BFS - **NP-Hard** 
+
 #### Nháp
 3. [Count Luck 2](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Count_Luck_2.ipynb)
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
 - [x] Dijkstra Shortest Path (also for disconnected graph) - **O(E.log V)**
 
-6. [Red Knight's Shortest Path](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Red_Knight's_Shortest_Path.ipynb)
-- [x] Graph Representation using Adjacency List 
-- [x] Find all nodes in graph - **O(VE) for Adjacency List**
-- [x] Find all paths between 2 nodes using Breadth-First Search - **NP-Hard**
 
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
