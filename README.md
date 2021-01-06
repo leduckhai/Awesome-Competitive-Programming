@@ -55,16 +55,11 @@ Algorithms
 2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
 
 ### C) Searching and Graph Algorithms
-1. [Lily's Homework](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Lily's_Homework.ipynb)
-- [x] Graph Representation using Adjacency List
-- [x] Unweighted Graph
-- [x] Breadth-First Search Shortest Path - **O(V+E)**
+1. - [x] [Graph Representation using Adjacency List: Unweighted, Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Directed Graph using Adjacency List
 
-2. [Count Luck](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Count_Luck.ipynb)
-- [x] Graph Representation using Adjacency List
-- [x] Unweighted Graph (also for disconnected graph)
-- [x] Breadth-First Search Shortest Path - **O(V+E)**
+2. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path based on BFS - **O(V+E)** , V, E is the number of vertices and edges
 
+#### Nháp
 3. [Count Luck 2](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Count_Luck_2.ipynb)
 - [x] Graph Representation using Adjacency Matrix
 - [x] Un- and weighted Graph
