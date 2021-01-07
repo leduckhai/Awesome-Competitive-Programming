@@ -56,6 +56,10 @@ Algorithms
 
 2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
 
+3. - [x] Longest Palindromic Substring - (O(n)) **(Đang cập nhật)**
+
+4. - [x] Pattern Search - O(log(n)) **(Đang cập nhật)**
+
 ### C) Searching and Graph Algorithms
 #### Graph Theory
 1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
