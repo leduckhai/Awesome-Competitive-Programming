@@ -58,20 +58,33 @@ Algorithms
 #### Graph Theory
 1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
 
-2. - [x] Graph Representation using Adjacency List: Weighted, Un-/Directed **Đang cập nhật**
+2. - [x] Graph Representation using Adjacency List: Weighted, Un-/Directed **(Đang cập nhật)**
 
 3. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
 
-4. - [x] Depth-First Search **Đang cập nhật**
+4. - [x] Depth-First Search **(Đang cập nhật)**
 
 5. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-6. - [x] Find All Edges **Đang cập nhật**
+6. - [x] Find All Edges **(Đang cập nhật)**
 
 7. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
 
-#### Shortest Path
+#### Shortest Path    
+| Type of Algorithm    | Subjects of Application | Time Complexity                        |
+| :---:                | :---:                   | :---:                                  |
+| Breadth-First Search | Unweighted Graph        | O(V+E) for Adjacency List              |
+| Dijkstra             |                         | O(V + E.log(V)) for Min-priority Queue |
+| Bellman-Ford         |                         |                                        |
+| Floyd-Warshall       |                         |                                        |
+       
 8. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
+
+9. - [x] Shortest Path: Dijkstra **(Đang cập nhật)**
+
+10. - [x] Shortest Path: Bellman-Ford **(Đang cập nhật)**
+
+11. - [x] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
 
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
