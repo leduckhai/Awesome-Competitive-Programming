@@ -28,12 +28,14 @@ Awesome-Competitive-Programming
 │
 └───Folder 1        : Type of Algorithm 
 │   │   File1.ipynb : Python codes for the problem
-│   │   File1.pdf   : Descriptions and solution guides for the problem
 │   │   ...   
 │   
 └───Folder 2
 │   │   File2.ipynb
-│   │   File2.pdf
+│   │   ...
+│     
+└───Folder Data Bank: Descriptions and Solution Guides for the Problem 
+│   │   File3.pdf
 │   │   ...
 │
 └───...    
