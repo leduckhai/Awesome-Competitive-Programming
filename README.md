@@ -66,15 +66,24 @@ Algorithms
 
 2. - [x] Graph Representation using Adjacency List: Weighted, Un-/Directed **(Đang cập nhật)**
 
-3. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
+3. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-4. - [x] Depth-First Search **(Đang cập nhật)**
+4. - [x] Find All Edges **(Đang cập nhật)**
 
-5. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
+5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
 
-6. - [x] Find All Edges **(Đang cập nhật)**
+6. - [x] [Disjoint Set (Union-Find): Union by Rank and Path Compression](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/DisjointSet.ipynb): Create a Disjoint Set (Union-Find) using "Union by Rank and Path Compression" for an Undirected Graph (used to Detect Cycle) - **Time = O(small constant), Space = O(V)**
 
-7. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
+#### Detect Cycle
+7. - [x] [Detect Cycle: Disjoint Set](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/isCycle_DisjointSet.ipynb): Detect Cycle in an Undirected Graph based on Disjoint Set (Union-Find) using "Union by Rank and Path Compression" - **O(V)**
+
+#### Graph Traversal
+8. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
+
+9. - [x] Depth-First Search **(Đang cập nhật)**
+
+#### Minimum Spanning Tree (MST)
+10. - [x] [MST: Kruskal Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Kruskal.ipynb): Find Minimum Spanning Tree (MST) of an Undirected Graph using Kruskal Algorithm - **O(E.log(E)) or O(E.log(V))**
 
 #### Shortest Path    
 | Type of Algorithm    | Subjects of Application | Time Complexity                        |
@@ -84,13 +93,13 @@ Algorithms
 | Bellman-Ford         |                         |                                        |
 | Floyd-Warshall       |                         |                                        |
        
-8. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
+11. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-9. - [x] Shortest Path: Dijkstra **(Đang cập nhật)**
+12. - [x] Shortest Path: Dijkstra **(Đang cập nhật)**
 
-10. - [x] Shortest Path: Bellman-Ford **(Đang cập nhật)**
+13. - [x] Shortest Path: Bellman-Ford **(Đang cập nhật)**
 
-11. - [x] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
+14. - [x] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
 
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
