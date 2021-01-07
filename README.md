@@ -7,7 +7,7 @@ I create this for faster implementation in interviews and programming contests
 Written in Python 3
 
 <p align="center"> 
-      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400" title="hover text"> 
+      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
 </p>
 
 How to use
@@ -85,14 +85,15 @@ Algorithms
 #### Minimum Spanning Tree (MST)
 10. - [x] [MST: Kruskal Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Kruskal.ipynb): Find Minimum Spanning Tree (MST) of an Undirected Graph using Kruskal Algorithm - **O(E.log(E)) or O(E.log(V))**
 
-#### Shortest Path    
+#### Shortest Path 
+      
 | Type of Algorithm    | Subjects of Application | Time Complexity                        |
 | :---:                | :---:                   | :---:                                  |
 | Breadth-First Search | Unweighted Graph        | O(V+E) for Adjacency List              |
 | Dijkstra             |                         | O(V + E.log(V)) for Min-priority Queue |
 | Bellman-Ford         |                         |                                        |
 | Floyd-Warshall       |                         |                                        |
-       
+ 
 11. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
 12. - [x] Shortest Path: Dijkstra **(Đang cập nhật)**
