@@ -83,9 +83,9 @@ Algorithms
 9. - [x] Depth-First Search **(Đang cập nhật)**
 
 #### Minimum Spanning Tree (MST)
-10. - [x] [MST: Prim Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Prim.ipynb): Find Minimum Spanning Tree (MST) of an Undirected Graph using Prim Algorithm - **O(E.log(V))**
+10. - [x] [MST: Prim Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Prim.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/MST_Prim.pdf)</sup>: Find Minimum Spanning Tree (MST) of an Undirected Graph using Prim Algorithm - **O(E.log(V))**
 
-11. - [x] [MST: Kruskal Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Kruskal.ipynb): Find Minimum Spanning Tree (MST) of an Undirected Graph using Kruskal Algorithm - **O(E.log(E)) or O(E.log(V))**
+11. - [x] [MST: Kruskal Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Kruskal.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/MST_Kruskal.pdf)</sup>: Find Minimum Spanning Tree (MST) of an Undirected Graph using Kruskal Algorithm - **O(E.log(E)) or O(E.log(V))**
 
 #### Shortest Path 
       
