@@ -89,12 +89,12 @@ Algorithms
 
 #### Shortest Path 
       
-| Type of Algorithm    | Subjects of Application                      | Time Complexity                        |
-| :---:                | :---:                                        | :---:                                  |
-| Breadth-First Search | Unweighted, Un-/Directed Graph               | O(V+E) for Adjacency List              |
-| Dijkstra             | Non-Negative Un-/Weighted Un-/Directed Graph | O(V + E.log(V)) for Min-priority Queue |
-| Bellman-Ford         |                                              |                                        |
-| Floyd-Warshall       |                                              |                                        |
+| Type of Algorithm    | Subjects of Application                      | Time Complexity                    |
+| :---:                | :---:                                        | :---:                              |
+| Breadth-First Search | Unweighted, Un-/Directed Graph               | O(V+E) for Adjacency List          |
+| Dijkstra             | Non-Negative Un-/Weighted Un-/Directed Graph | O(E.log(V)) for Min-priority Queue |
+| Bellman-Ford         |                                              |                                    |
+| Floyd-Warshall       |                                              |                                    |
  
 12. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Un-/Directed Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
