@@ -89,16 +89,16 @@ Algorithms
 
 #### Shortest Path 
       
-| Type of Algorithm    | Subjects of Application        | Time Complexity                        |
-| :---:                | :---:                          | :---:                                  |
-| Breadth-First Search | Unweighted, Un-/Directed Graph | O(V+E) for Adjacency List              |
-| Dijkstra             |                                | O(V + E.log(V)) for Min-priority Queue |
-| Bellman-Ford         |                                |                                        |
-| Floyd-Warshall       |                                |                                        |
+| Type of Algorithm    | Subjects of Application                      | Time Complexity                        |
+| :---:                | :---:                                        | :---:                                  |
+| Breadth-First Search | Unweighted, Un-/Directed Graph               | O(V+E) for Adjacency List              |
+| Dijkstra             | Non-Negative Un-/Weighted Un-/Directed Graph | O(V + E.log(V)) for Min-priority Queue |
+| Bellman-Ford         |                                              |                                        |
+| Floyd-Warshall       |                                              |                                        |
  
-12. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
+12. - [x] [Shortest Path: Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_BFS.ipynb): Find the Shortest Path in a Unweighted Un-/Directed Graph based on BFS - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-13. - [x] Shortest Path: Dijkstra **(Đang cập nhật)**
+13. - [x] [Shortest Path: Dijkstra using Min-Heap](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_Dijkstra_MinHeap.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SP_Dijkstra_MinHeap.pdf)</sup>: Find Shortest Path of an Non-Negative Un-/Weighted Un-/Directed Graph based on Dijkstra Algorithm using Min-Heap - **O(E.log(V))**
 
 14. - [x] Shortest Path: Bellman-Ford **(Đang cập nhật)**
 
