@@ -78,9 +78,9 @@ Algorithms
 7. - [x] [Detect Cycle: Disjoint Set](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/isCycle_DisjointSet.ipynb): Detect Cycle in an Undirected Graph based on Disjoint Set (Union-Find) using "Union by Rank and Path Compression" - **O(V)**
 
 #### Graph Traversal
-8. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
+8. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node in Un-/Directed Graph - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
 
-9. - [x] Depth-First Search **(Đang cập nhật)**
+9. - [x] [Depth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/DFS.ipynb): Find DFS Path from a Starting Node in Un-/Directed Graph - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
 
 #### Minimum Spanning Tree (MST)
 10. - [x] [MST: Prim Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Prim.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/MST_Prim.pdf)</sup>: Find Minimum Spanning Tree (MST) of an Undirected Graph using Prim Algorithm - **O(E.log(V))**
@@ -134,7 +134,7 @@ Algorithms
 
 6. - [x] [Max Subarray Sum (Kadane Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array - **O(n)**
 
-7. - [x] [Min Subarray Sum (Kadane Algorithm's Varient](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
+7. - [x] [Min Subarray Sum (Kadane Algorithm's Varient)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
 
 8. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/LongestCommonSubsequence.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
 
