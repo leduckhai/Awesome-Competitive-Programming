@@ -189,6 +189,8 @@ Algorithms
 #### Non-categorized
 18. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
-### Recursion
+### Recursion Algorithm
+#### Backtracking
 
+#### Divide and Conquer
 
