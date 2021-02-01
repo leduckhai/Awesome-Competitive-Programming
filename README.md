@@ -12,7 +12,7 @@ Written in Python 3
 
 How to use
 ----------
-- [x] : Useful data structures or algorithms
+- [x] : Useful / well-known data structures or algorithms
 
 - [ ] : Solutions for some awesome competitive programming problems
 
