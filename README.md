@@ -43,12 +43,13 @@ Awesome-Competitive-Programming
 
 Algorithms
 ----------
-### A) Binary Search Tree Algorithm
-1. - [x] [Binary Search Tree](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST.ipynb): Original Binary Search Tree Algorithm - **O(log(n))**
+### A) Data Structures Applications
+#### Binary Search Tree Algorithm
+1. - [x] [Binary Search Tree](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST.ipynb): Original Binary Search Tree Algorithm - **O(log(n))**
 
-2. - [x] [Binary Search Tree: Check a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST_Find.ipynb): Check if a Number is in a Sorted List using BST Algorithm - **O(log(n))**
+2. - [x] [Binary Search Tree: Check a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST_Find.ipynb): Check if a Number is in a Sorted List using BST Algorithm - **O(log(n))**
 
-3. - [x] [Binary Search Tree: Index of a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Binary%20Search%20Tree%20Algorithm/BST_Find_Index.ipynb): Find the Index of a Number in a Sorted List using BST Algorithm - **O(log(n))**
+3. - [x] [Binary Search Tree: Index of a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST_Find_Index.ipynb): Find the Index of a Number in a Sorted List using BST Algorithm - **O(log(n))**
 
 ### B) String Algorithm
 #### Suffix Tree - Suffix Array
