@@ -114,6 +114,8 @@ Algorithms
 
 ### E) Dynamic Programming
 #### Coin Change Algorithms
+> Given an array of choices, every choice is picked **unlimited times**
+
 1. - [x] [Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/CoinChange.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Coin%20Change.pdf)</sup>: How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
 
 2. - [x] [Integer Partition](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/IntegerPartition.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Integer_Partition.pdf)</sup>: How many ways to partition number N using [1,2,...N] numbers - **O(n<sup>1.5</sup>)**
@@ -121,6 +123,8 @@ Algorithms
 3. - [x] [Minimum Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/MinCoinChange.ipynb): Find Minimum Number of Coins to pay V money using C coins [C1,C2,...,Cn] - **O(C.V)**
 
 #### Knapsack Problems
+> Given an array of choices, every choice is picked **only once**
+
 4. - [x] [Knapsack 0/1](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Knapsack_01.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)</sup>: Given a List of Weights associated with their Values, find the Maximum Total Value attained with its Total Weight <= Given Total Weight, each Weight is only **picked once** (0/1 Rule)  - **O(N.W)** , N, W is length of weights array and given total weight 
 
 5. - [x] [Partition Problem: Subset Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PartitionProblem_SubsetSum.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Subset_sum_problem)</sup>: Given an Array containing only Positive Integers, find if it can be Partitioned into 2 Subsets having Sum of elements in both subsets is Equal.  - **O(N.T)** , N, T is the length of numbers array and the target sum (=sum/2)
