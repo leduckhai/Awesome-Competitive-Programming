@@ -2,9 +2,9 @@
 
 This repository contains my implementation of **useful / well-known data structures, algorithms and solutions** for awesome competitive programming problems in **Hackerrank, Project Euler and Leetcode**
 
-I create this for faster implementation in interviews and programming contests
+I create this for faster implementation and better preparation in interviews as well as programming contests
 
-Written in Python 3
+Written in Python 3 by Le Duc Khai 
 
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
