@@ -149,7 +149,7 @@ Algorithms
 
 11. - [x] [Min Subarray Sum (Kadane Algorithm's Min Varient)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
 
-12. - [x] [Subarray Sum Equals K]()<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sum-equals-k/)</sup>: _______________
+12. - [x] [Subarray Sum Equals K](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SubarraySum_EqualsK.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sum-equals-k/)</sup>: Find the Number of Continuous Subarrays of an Array whose Sum equals to K - **O(n)**
 
 #### Subsequence Problems
 13. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/LongestCommonSubsequence.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
