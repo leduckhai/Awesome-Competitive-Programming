@@ -113,9 +113,11 @@ Algorithms
 - Swap 2 digits of a number k times to get largest number - **O(n)**
 
 ### E) Dynamic Programming
-#### Coin Change Algorithms
-> Given an array of choices, every choice is picked **unlimited times**
+> **Coin Change Algorithms**: Given an array of choices, every choice is picked **unlimited times** 
+> 
+> **Knapsack Problems**: Given an array of choices, every choice is picked **only once**
 
+#### Coin Change Algorithms
 1. - [x] [Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/CoinChange.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Coin%20Change.pdf)</sup>: How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
 
 2. - [x] [Integer Partition](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/IntegerPartition.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Integer_Partition.pdf)</sup>: How many ways to partition number N using [1,2,...N] numbers - **O(n<sup>1.5</sup>)**
@@ -123,38 +125,41 @@ Algorithms
 3. - [x] [Minimum Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/MinCoinChange.ipynb): Find Minimum Number of Coins to pay V money using C coins [C1,C2,...,Cn] - **O(C.V)**
 
 #### Knapsack Problems
-> Given an array of choices, every choice is picked **only once**
-
 4. - [x] [Knapsack 0/1](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Knapsack_01.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)</sup>: Given a List of Weights associated with their Values, find the Founding Weights and Maximum Total Value attained with its Total Weight <= Given Total Weight, each Weight is only **picked once** (0/1 Rule)  - **O(N.W)** , N, W is length of weights array and given total weight 
 
 5. - [x] [Partition Problem: Subset Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PartitionProblem_SubsetSum.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Subset_sum_problem)</sup>: Given an Array containing only Positive Integers, find if it can be Partitioned into 2 Subsets having Sum of elements in both subsets is Equal.  - **O(N.T)** , N, T is the length of numbers array and the target sum (=sum/2)
 
-6. - [x] [Partition Problem: Multiway Number Partitioning]()<sup>[[Wiki]]()</sup>: ______________________________
+6. - [x] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: Đang cập nhật
 
 #### Path Sum Problems
 7. - [x] [Max Path Sum Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_PathSum_Triangle.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_PathSum_Triangle.pdf)</sup>: Find Maximum Path Sum from Top to Bottom of a Triangle - **O(R)** , R is number of rows of the triangle
 
 8. - [x] [Min Path Sum Matrix: Top-Left to Right-Bottom, Right and Down Moves](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_PathSum_Matrix.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Min_PathSum_Matrix.pdf)</sup>: Find Min Path Sum from Top-Left to Right-Bottom of a Matrix using Right and Down Moves - **O(R.C)** , R, C is length of row and column of the matrix
 
-#### Subarray/Subsequence/Substring Problems
-
-> Subsequence = Any subset of an array/string 
+> **Subsequence** = Any subset of an array/string 
 >
-> Subarray = Contiguous subsequence of an array
+> **Subarray** = Contiguous subsequence of an array
 >
-> Substring = Contiguous subsequence of a string
+> **Substring** = Contiguous subsequence of a string
 
-9. - [x] [Max Subarray Sum (Kadane Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array - **O(n)**
+#### Subarray Problems
+9. - [x] [Max Subarray Sum (Kadane Algorithm)]()<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array - **O(n)**
 
-10. - [x] [Min Subarray Sum (Kadane Algorithm's Varient)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
+10. - [x] [Max Subarray Sum (Kadane Algorithm - Extended)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array and its Indices - **O(n)**
 
-11. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/LongestCommonSubsequence.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
+11. - [x] [Min Subarray Sum (Kadane Algorithm's Min Varient)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
 
-12. - [x] [Longest Increasing/Decreasing Subsequence (Patience Sorting Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Increasing_Subsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Longest_Increasing_Subsequence.pdf)</sup>: Find the Longest Increasing or Decreasing Subsequence of an Array List based on Patience Sorting Algorithm- **O(n.log(n))**
+12. - [x] [Subarray Sum Equals K]()<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sum-equals-k/)</sup>: _______________
 
-13. - [x] [Longest Common Substring (Longest Common Factor - LCF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Common_Substring.ipynb): Find the Longest Common Substring (Factor) of 2 strings S1 and S2 - **O(|S1|.|S2|)** 
+#### Subsequence Problems
+13. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/LongestCommonSubsequence.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
 
-14. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
+14. - [x] [Longest Increasing/Decreasing Subsequence (Patience Sorting Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Increasing_Subsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Longest_Increasing_Subsequence.pdf)</sup>: Find the Longest Increasing or Decreasing Subsequence of an Array List based on Patience Sorting Algorithm- **O(n.log(n))**
+
+#### Substring Problems
+15. - [x] [Longest Common Substring (Longest Common Factor - LCF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Common_Substring.ipynb): Find the Longest Common Substring (Factor) of 2 strings S1 and S2 - **O(|S1|.|S2|)** 
+
+16. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
 ### F) Mathematics
 #### Binomial Coefficient Problems
