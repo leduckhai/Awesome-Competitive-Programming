@@ -149,7 +149,7 @@ Algorithms
 
 11. - [x] [Min Subarray Sum (Kadane Algorithm's Min Varient)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_SubarraySum.ipynb): Find Minimum Subarray Sum of an Array - **O(n)**
 
-12. - [x] [Subarray Sum Equals K](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SubarraySum_EqualsK.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sum-equals-k/)</sup>: Find the Number of Continuous Subarrays of an Array whose Sum equals to K - **O(n)**
+12. - [x] [Subarray Sum Equals K](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SubarraySum_EqualsK.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sum-equals-k/)</sup>: Find the Number of Continuous Subarrays of an Array whose Sum Equals to K - **O(n)**
 
 13. - [x] [Subarray Sum Divisible by K](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SubarraySum_DivByK.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sums-divisible-by-k/)</sup>: Find the Number of Continuous Subarrays of an Array whose Sum is Divisible by K - **O(n)**
 
