@@ -2,7 +2,7 @@
 
 This repository contains my implementation of **useful / well-known data structures, algorithms and solutions** for awesome competitive programming problems in **Hackerrank, Project Euler and Leetcode**
 
-I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: :trollface:
+I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: 
 
 :calendar: **Last updated on 03.04.2021** in Python 3 by Le Duc Khai
  
