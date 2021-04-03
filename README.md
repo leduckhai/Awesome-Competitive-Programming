@@ -4,7 +4,7 @@ This repository contains my implementation of **useful / well-known data structu
 
 I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: :trollface:
 
-:date: **Last updated on 03.04.2021** in Python 3 by Le Duc Khai
+:calendar: **Last updated on 03.04.2021** in Python 3 by Le Duc Khai
  
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
@@ -144,7 +144,7 @@ Awesome-Competitive-Programming
 >
 > **Substring** = Contiguous subsequence of a string
 
-#### Subarray Problems
+#### :date: Subarray Problems
 9. - [x] [Max Subarray Sum (Kadane Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array - **O(n)**
 
 10. - [x] [Max Subarray Sum (Kadane Algorithm - Extended)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_SubarraySum_Extended.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_SubarraySum.pdf)</sup>: Find Maximum Subarray Sum of an Array and its Indices - **O(n)**
@@ -155,12 +155,12 @@ Awesome-Competitive-Programming
 
 13. - [x] [Subarray Sum Divisible by K](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SubarraySum_DivByK.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/subarray-sums-divisible-by-k/)</sup>: Find the Number of Continuous Subarrays of an Array whose Sum is Divisible by K - **O(n)**
 
-#### Subsequence Problems
+#### :dango: Subsequence Problems
 14. - [x] [Longest Common Subsequence (LCS)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/LongestCommonSubsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/LongestCommonSubsequence.pdf)</sup>: Find the longest string S, every character in S is also in S1 and S2 but in order - **O(|S1|.|S2|)**
 
 15. - [x] [Longest Increasing/Decreasing Subsequence (Patience Sorting Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Increasing_Subsequence.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Longest_Increasing_Subsequence.pdf)</sup>: Find the Longest Increasing or Decreasing Subsequence of an Array List based on Patience Sorting Algorithm- **O(n.log(n))**
 
-#### Substring Problems
+#### :page_with_curl: Substring Problems
 16. - [x] [Longest Common Substring (Longest Common Factor - LCF)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Longest_Common_Substring.ipynb): Find the Longest Common Substring (Factor) of 2 strings S1 and S2 - **O(|S1|.|S2|)** 
 
 17. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
