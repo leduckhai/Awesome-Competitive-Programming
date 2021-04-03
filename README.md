@@ -2,15 +2,17 @@
 
 This repository contains my implementation of **useful / well-known data structures, algorithms and solutions** for awesome competitive programming problems in **Hackerrank, Project Euler and Leetcode**
 
-I create this for faster implementation and better preparation in interviews as well as programming contests
+I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: :trollface:
 
-Written in Python 3 by Le Duc Khai 
+:calendar: **Last updated on 03.04.2021** in Python 3 by Le Duc Khai
+ 
+:warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
 </p>
 
-How to use
+:question: How to use
 ----------
 - [x] : Useful / well-known data structures or algorithms
 
@@ -41,10 +43,10 @@ Awesome-Competitive-Programming
 └───...    
 ```
 
-Algorithms
+:watermelon: Algorithms
 ----------
 ### A) Data Structures Applications
-#### Binary Search Tree Algorithm
+#### :palm_tree: Binary Search Tree Algorithm
 1. - [x] [Binary Search Tree](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST.ipynb): Original Binary Search Tree Algorithm - **O(log(n))**
 
 2. - [x] [Binary Search Tree: Check a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST_Find.ipynb): Check if a Number is in a Sorted List using BST Algorithm - **O(log(n))**
@@ -52,7 +54,7 @@ Algorithms
 3. - [x] [Binary Search Tree: Index of a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST_Find_Index.ipynb): Find the Index of a Number in a Sorted List using BST Algorithm - **O(log(n))**
 
 ### B) String Algorithm
-#### Suffix Tree - Suffix Array
+#### :ear_of_rice: Suffix Tree - Suffix Array
 1. - [x] [Suffix Array (Manber-Myers Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/SuffixArray_ManberMyers.ipynb): Find suffix array of a string S based on Manber-Myers algorithm - **O(n.log(n))** , n = |S|
 
 2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
@@ -62,7 +64,7 @@ Algorithms
 4. - [x] Pattern Search - O(log(n)) **(Đang cập nhật)**
 
 ### C) Searching and Graph Algorithms
-#### Graph Theory
+#### :snowflake: Graph Theory
 1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
 
 2. - [x] Graph Representation using Adjacency List: Weighted, Un-/Directed **(Đang cập nhật)**
@@ -75,20 +77,20 @@ Algorithms
 
 6. - [x] [Disjoint Set (Union-Find): Union by Rank and Path Compression](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/DisjointSet.ipynb): Create a Disjoint Set (Union-Find) using "Union by Rank and Path Compression" for an Undirected Graph (used to Detect Cycle) - **Time = O(small constant), Space = O(V)**
 
-#### Detect Cycle
+#### :recycle: Detect Cycle
 7. - [x] [Detect Cycle: Disjoint Set](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/isCycle_DisjointSet.ipynb): Detect Cycle in an Undirected Graph based on Disjoint Set (Union-Find) using "Union by Rank and Path Compression" - **O(V)**
 
-#### Graph Traversal
+#### :airplane: Graph Traversal
 8. - [x] [Breadth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/BFS.ipynb): Find BFS Path from a Starting Node in Un-/Directed Graph - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
 
 9. - [x] [Depth-First Search](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/DFS.ipynb): Find DFS Path from a Starting Node in Un-/Directed Graph - **O(V+E) for Adjacency List; O(V<sup>2</sup>) for Adjacency Matrix** , V, E is the number of vertices and edges
 
-#### Minimum Spanning Tree (MST)
+#### :shamrock: Minimum Spanning Tree (MST)
 10. - [x] [MST: Prim Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Prim.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/MST_Prim.pdf)</sup>: Find Minimum Spanning Tree (MST) of an Undirected Graph using Prim Algorithm - **O(E.log(V))**
 
 11. - [x] [MST: Kruskal Algorithm](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/MST_Kruskal.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/MST_Kruskal.pdf)</sup>: Find Minimum Spanning Tree (MST) of an Undirected Graph using Kruskal Algorithm - **O(E.log(E)) or O(E.log(V))**
 
-#### Shortest Path 
+#### :kick_scooter: Shortest Path 
       
 | Type of Algorithm    | Subjects of Application                      | Time Complexity                    |
 | :---:                | :---:                                        | :---:                              |
@@ -117,21 +119,21 @@ Algorithms
 > 
 > **Knapsack Problems**: Given an array of choices, every choice is picked **only once**
 
-#### Coin Change Algorithms
+#### :moneybag: Coin Change Algorithms
 1. - [x] [Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/CoinChange.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Coin%20Change.pdf)</sup>: How many ways to pay V money using C coins [C1,C2,...Cn] - **O(C.V)**
 
 2. - [x] [Integer Partition](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/IntegerPartition.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Integer_Partition.pdf)</sup>: How many ways to partition number N using [1,2,...N] numbers - **O(n<sup>1.5</sup>)**
 
 3. - [x] [Minimum Coin Change](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/MinCoinChange.ipynb): Find Minimum Number of Coins to pay V money using C coins [C1,C2,...,Cn] - **O(C.V)**
 
-#### Knapsack Problems
+#### :handbag: Knapsack Problems
 4. - [x] [Knapsack 0/1](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Knapsack_01.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)</sup>: Given a List of Weights associated with their Values, find the Founding Weights and Maximum Total Value attained with its Total Weight <= Given Total Weight, each Weight is only **picked once** (0/1 Rule)  - **O(N.W)** , N, W is length of weights array and given total weight 
 
 5. - [x] [Partition Problem: Subset Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PartitionProblem_SubsetSum.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Subset_sum_problem)</sup>: Given an Array containing only Positive Integers, find if it can be Partitioned into 2 Subsets having Sum of elements in both subsets is Equal.  - **O(N.T)** , N, T is the length of numbers array and the target sum (=sum/2)
 
 6. - [x] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: Đang cập nhật
 
-#### Path Sum Problems
+#### :chart: Path Sum Problems
 7. - [x] [Max Path Sum Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_PathSum_Triangle.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_PathSum_Triangle.pdf)</sup>: Find Maximum Path Sum from Top to Bottom of a Triangle - **O(R)** , R is number of rows of the triangle
 
 8. - [x] [Min Path Sum Matrix: Top-Left to Right-Bottom, Right and Down Moves](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Min_PathSum_Matrix.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Min_PathSum_Matrix.pdf)</sup>: Find Min Path Sum from Top-Left to Right-Bottom of a Matrix using Right and Down Moves - **O(R.C)** , R, C is length of row and column of the matrix
