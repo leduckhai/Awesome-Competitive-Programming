@@ -166,23 +166,23 @@ Awesome-Competitive-Programming
 17. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
 ### F) Mathematics
-#### Binomial Coefficient Problems
+#### :blue_book: Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
 2. - [ ] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lattice_Paths.pdf)</sup> : Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
-#### Factors Problems
+#### :closed_book: Factors Problems
 3. - [x] [Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Factorization.ipynb): Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
-#### Multiples Problems
+#### :green_book: Multiples Problems
 4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
 
-#### Permutation Problems
+#### :notebook: Permutation Problems
 5. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
 
 6. - [x] [Permutation Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/arePermutations.ipynb): Check if 2 Numbers/Strings are Permutations - **O(n)** , n = max(|a|,|b|)
 
-#### Primes Problems
+#### :orange_book: Primes Problems
 7. - [x] ["Sieve Method" All Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_All_Primes.ipynb): Find All Primes < n - **O(n<sup>1/2</sup>)**
 
 8. - [x] [Primality Test (Common Method)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/isPrime.ipynb): Check if n is a Prime Number using "Common Method" - **O(n<sup>1/2</sup>)**
@@ -191,7 +191,7 @@ Awesome-Competitive-Programming
 
 10. - [x] [Coprimes Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/areCoprimes.ipynb): Check if 2 Numbers are Coprime - **O(log a.b)**
 
-#### Primes-Factors Problems
+#### :notebook_with_decorative_cover: Primes-Factors Problems
 11. - [x] [Euler Totient Function (Number List)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_NumList.ipynb): Find ALL Numbers of Coprimes < n based on Euler Totient Function - **O((l) + m.loglogm + l.(logm + k))** , k is the number of prime factors of n; m and l is max value and length of the input number list
       
 12. - [x] [Euler Totient Function (Single Number)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Euler_Totient_SingleNum.ipynb): Find the Number of Coprimes < n based on Euler Totient Function - **O(n<sup>1/2</sup> + k)** , k is the number of prime factors of the input number n
@@ -202,12 +202,12 @@ Awesome-Competitive-Programming
 
 15. - [x] [Prime Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PrimeFactorization.ipynb): Find All Prime Factors of a Number - **O(n<sup>1/2</sup>)**
 
-#### Pythagorean Theorem
+#### :ledger: Pythagorean Theorem
 16. - [x] [Pythagorean Triplets Perimeter](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PythagoreanTriplets_Perimeter.ipynb): Find Pythagorean Triplets having Perimeter (or Sum) P - **O(P)**
 
 17. - [x] [Pythagorean Triplets Less or Equal N](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PythagoreanTriplets_LessEqualN.ipynb): Generate all Pythagorean Triplets <= N - **O(N.log(N))**
 
-#### Non-categorized
+#### :book: Non-categorized
 18. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion Algorithm
