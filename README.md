@@ -4,7 +4,7 @@ This repository contains my implementation of **useful / well-known data structu
 
 I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: 
 
-:calendar: **Last updated on 03.04.2021** in Python 3 by Le Duc Khai
+:calendar: **Last updated on 06.04.2021** in Python 3 by Le Duc Khai
  
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
