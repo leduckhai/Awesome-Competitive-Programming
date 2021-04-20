@@ -1,10 +1,17 @@
 # Awesome Competitive Programming Problems
 
 <p align="center">
-<img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Last%20updated-21.04.2021-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
+</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Hackerrank-white"> 
+<img src="https://img.shields.io/badge/Project%20Euler-white">
+<img src="https://img.shields.io/badge/Leetcode-white">     
+<img src="https://img.shields.io/badge/Wikipedia-white">      
+<img src="https://img.shields.io/badge/Youtube-white">
 </p>
 
 This repository contains my implementation of **useful / well-known data structures, algorithms and solutions** for awesome competitive programming problems in **Hackerrank, Project Euler and Leetcode**
