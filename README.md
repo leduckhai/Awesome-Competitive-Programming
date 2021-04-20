@@ -1,11 +1,16 @@
 # Awesome Competitive Programming Problems
 
+<p align="center">
+<img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Last%20updated-21.04.2021-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
+
+</p>
+
 This repository contains my implementation of **useful / well-known data structures, algorithms and solutions** for awesome competitive programming problems in **Hackerrank, Project Euler and Leetcode**
 
 I create this for faster implementation and better preparation in interviews as well as programming contests :trollface: :trollface: 
 
-:calendar: **Last updated on 06.04.2021** in Python 3 by Le Duc Khai
- 
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
 <p align="center"> 
