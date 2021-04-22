@@ -22,7 +22,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
-:fire: **New updates today: [Debug]()**
+:fire: **New updates today: [Knapsack 0/1](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Knapsack_01.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)</sup>:**
 
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
