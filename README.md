@@ -1,9 +1,6 @@
 # Awesome Competitive Programming Problems
 
-> Please press star button ⭐ if you like this repo ❤ 
-
-> Nhấn star ⭐ để ủng hộ mình nha các bạn ❤
-
+> Please press star button ⭐ if you like this repo ❤. Nhấn star ⭐ để ủng hộ mình nha các bạn ❤
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
@@ -35,12 +32,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 - [ ] : Solutions for some awesome competitive programming problems
 
-**Mathematics** : Type of the Algorithm
-
-**Permutation Problems** : Category of the Problem
-
-[Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb) : Name of the problem
-
+**Folders tree:**
 ```
 Awesome-Competitive-Programming 
 │   README.md 
@@ -59,6 +51,11 @@ Awesome-Competitive-Programming
 │
 └───...    
 ```
+
+**Overview of the file:**
+<p align="center"> 
+      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Overview%20of%20file.PNG" width="500"> 
+</p>
 
 :watermelon: Algorithms
 ----------
