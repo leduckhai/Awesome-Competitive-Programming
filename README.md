@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/Last%20updated-21.04.2021-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Last%20updated%20on-22.04.2021-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
 </p>
 
@@ -22,6 +22,8 @@ I create this for faster implementation and better preparation in interviews as 
 
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
+:fire: **New updates today: [Debug]()**
+
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
 </p>
@@ -31,26 +33,6 @@ I create this for faster implementation and better preparation in interviews as 
 - [x] : Useful / well-known data structures or algorithms
 
 - [ ] : Solutions for some awesome competitive programming problems
-
-**Folders tree:**
-```
-Awesome-Competitive-Programming 
-│   README.md 
-│
-└───Folder 1        : Type of Algorithm 
-│   │   File1.ipynb : Python codes for the problem
-│   │   ...   
-│   
-└───Folder 2
-│   │   File2.ipynb
-│   │   ...
-│     
-└───Folder Data Bank: Descriptions and Solution Guides for the Problem 
-│   │   File1.pdf
-│   │   ...
-│
-└───...    
-```
 
 **Overview of the file:**
 <p align="center"> 
