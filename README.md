@@ -1,5 +1,9 @@
 # Awesome Competitive Programming Problems
 
+Please press star button ⭐ if you like this repo ❤ 
+
+Nhấn star ⭐ để ủng hộ mình nha các bạn ❤
+
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Last%20updated-21.04.2021-brightgreen?style=for-the-badge">
