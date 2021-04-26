@@ -30,10 +30,6 @@ I create this for faster implementation and better preparation in interviews as 
 
 :question: How to use
 ----------
-- [x] : Useful / well-known data structures or algorithms
-
-- [ ] : Solutions for some awesome competitive programming problems
-
 **Overview of the file:**
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Overview%20of%20file.PNG" width="500"> 
@@ -67,7 +63,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 3. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-4. - [x] Find All Edges **(Đang cập nhật)**
+4. - [ ] Find All Edges **(Đang cập nhật)**
 
 5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
 
@@ -99,9 +95,9 @@ I create this for faster implementation and better preparation in interviews as 
 
 13. - [x] [Shortest Path: Dijkstra using Min-Heap](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_Dijkstra_MinHeap.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SP_Dijkstra_MinHeap.pdf)</sup>: Find Shortest Path of an Non-Negative Un-/Weighted Un-/Directed Graph based on Dijkstra Algorithm using Min-Heap - **O(E.log(V))**
 
-14. - [x] Shortest Path: Bellman-Ford **(Đang cập nhật)**
+14. - [ ] Shortest Path: Bellman-Ford **(Đang cập nhật)**
 
-15. - [x] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
+15. - [ ] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
 
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
@@ -127,7 +123,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 5. - [x] [Partition Problem: Subset Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PartitionProblem_SubsetSum.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Subset_sum_problem)</sup>: Given an Array containing only Positive Integers, find if it can be Partitioned into 2 Subsets having Sum of elements in both subsets is Equal.  - **O(N.T)** , N, T is the length of numbers array and the target sum (=sum/2)
 
-6. - [x] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: Đang cập nhật
+6. - [ ] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: Đang cập nhật
 
 #### :chart_with_upwards_trend: Path Sum Problems
 7. - [x] [Max Path Sum Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_PathSum_Triangle.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_PathSum_Triangle.pdf)</sup>: Find Maximum Path Sum from Top to Bottom of a Triangle - **O(R)** , R is number of rows of the triangle
@@ -169,13 +165,13 @@ I create this for faster implementation and better preparation in interviews as 
 #### :blue_book: Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
-2. - [ ] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lattice_Paths.pdf)</sup> : Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
+2. - [x] [PE #15: Lattice Paths](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lattice_Paths.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lattice_Paths.pdf)</sup> : Find the number of routes from the top left corner to the bottom right corner in a rectangular grid
 
 #### :closed_book: Factors Problems
 3. - [x] [Factorization](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Factorization.ipynb): Find All Factors of a Number - **O(n<sup>1/2</sup>)**
 
 #### :green_book: Multiples Problems
-4. - [ ] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
+4. - [x] [PE #1: Multiples of 3 and 5](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Multiples_of_3_and_5.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Multiples_of_3_and_5.pdf)</sup>: Find Sum of Multiples of a Number - **O(1)**
 
 #### :notebook: Permutation Problems
 5. - [x] [Lexicographic Permutations](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Lexicographic_Permutations.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Lexicographic_Permutations.pdf)</sup>: Find n-th Lexicographic Permutation of a very long Word - **O(n)**
@@ -208,7 +204,7 @@ I create this for faster implementation and better preparation in interviews as 
 17. - [x] [Pythagorean Triplets Less or Equal N](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/PythagoreanTriplets_LessEqualN.ipynb): Generate all Pythagorean Triplets <= N - **O(N.log(N))**
 
 #### :book: Non-categorized
-18. - [ ] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
+18. - [x] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion Algorithm
 #### Backtracking
