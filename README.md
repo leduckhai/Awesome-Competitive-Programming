@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/Last%20updated%20on-22.04.2021-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Last%20updated%20on-26.04.2021-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
 </p>
 
@@ -22,7 +22,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
-:fire: **New updates today: [Knapsack 0/1](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Knapsack_01.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem)</sup>:**
+:fire: **New updates today: [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>:**
 
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
@@ -161,7 +161,11 @@ I create this for faster implementation and better preparation in interviews as 
 
 17. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
-### F) Mathematics
+### F) Two Pointers - Sliding Window
+#### Non-categorized
+1. - [x] [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>: Find the Length of the Longest Substring Without Repeating Characters  - **O(|S|)**
+
+### G) Mathematics
 #### :blue_book: Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
 
