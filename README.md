@@ -1,6 +1,6 @@
 # Awesome Competitive Programming Problems
 
-> Please press star button ⭐ if you like this repo ❤. Nhấn star ⭐ để ủng hộ mình nha các bạn ❤
+> Please press star button ⭐ if you like this repo ❤. Thấy ngon thì nhấn star ⭐ ủng hộ mình nha các đồng dâm ❤
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
@@ -51,19 +51,19 @@ I create this for faster implementation and better preparation in interviews as 
 
 2. - [x] [Longest Common Prefix Array (Kasai Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/LCPArray_Kasai.ipynb): Find longest common prefix array of a string S with the help of suffix array based on Kasai algorithm - **O(n)** , n = |S|
 
-3. - [x] Longest Palindromic Substring - (O(n)) **(Đang cập nhật)**
+3. - [ ] Longest Palindromic Substring - **O(n)** **Đợi xíu đang (lười) cập nhật :woozy_face:**
 
-4. - [x] Pattern Search - O(log(n)) **(Đang cập nhật)**
+4. - [ ] Pattern Search - **O(log(n))** **Đợi xíu bug nhiều vl sửa mãi chưa xong :dizzy_face:**
 
 ### C) Searching and Graph Algorithms
 #### :snowflake: Graph Theory
 1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
 
-2. - [x] Graph Representation using Adjacency List: Weighted, Un-/Directed **(Đang cập nhật)**
+2. - [ ] Graph Representation using Adjacency List: Weighted, Un-/Directed **Mốt rảnh sẽ cập nhật sau :weary:**
 
 3. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-4. - [ ] Find All Edges **(Đang cập nhật)**
+4. - [ ] Find All Edges **Cái này dễ mà lười code ~@@~**
 
 5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
 
@@ -95,9 +95,9 @@ I create this for faster implementation and better preparation in interviews as 
 
 13. - [x] [Shortest Path: Dijkstra using Min-Heap](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/SP_Dijkstra_MinHeap.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SP_Dijkstra_MinHeap.pdf)</sup>: Find Shortest Path of an Non-Negative Un-/Weighted Un-/Directed Graph based on Dijkstra Algorithm using Min-Heap - **O(E.log(V))**
 
-14. - [ ] Shortest Path: Bellman-Ford **(Đang cập nhật)**
+14. - [ ] Shortest Path: Bellman-Ford **Khó như chó méo bít code sao lun á mấy ba :joy:**
 
-15. - [ ] Shortest Path: Floyd-Warshall **(Đang cập nhật)**
+15. - [ ] Shortest Path: Floyd-Warshall **Cùng lý do như trên :grin:**
 
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
@@ -123,7 +123,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 5. - [x] [Partition Problem: Subset Sum](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/PartitionProblem_SubsetSum.ipynb)<sup>[[Wiki]](https://en.wikipedia.org/wiki/Subset_sum_problem)</sup>: Given an Array containing only Positive Integers, find if it can be Partitioned into 2 Subsets having Sum of elements in both subsets is Equal.  - **O(N.T)** , N, T is the length of numbers array and the target sum (=sum/2)
 
-6. - [ ] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: Đang cập nhật
+6. - [ ] Partition Problem: Multiway Number Partitioning<sup>[[Wiki]](https://en.wikipedia.org/wiki/Multiway_number_partitioning)</sup>: **Câu này để thi Olympic thôi chứ công ty nào hỏi phỏng vấn thì tán xéo háng nó :smiling_imp:**
 
 #### :chart_with_upwards_trend: Path Sum Problems
 7. - [x] [Max Path Sum Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/Max_PathSum_Triangle.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Max_PathSum_Triangle.pdf)</sup>: Find Maximum Path Sum from Top to Bottom of a Triangle - **O(R)** , R is number of rows of the triangle
@@ -207,6 +207,7 @@ I create this for faster implementation and better preparation in interviews as 
 18. - [x] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
 ### Recursion Algorithm
+**Mới bị cắm sừng, méo mún code nữa :bomb:**
 #### Backtracking
 
 #### Divide and Conquer
