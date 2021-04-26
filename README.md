@@ -63,7 +63,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 3. - [x] [Find All Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllNodes.ipynb): Find All Nodes in the Unweighted Graph - **O(V+E) for Adjacency List** , V, E is the number of vertices and edges
 
-4. - [ ] Find All Edges **Cái này dễ mà lười code ~@@~**
+4. - [ ] Find All Edges **Cái này dễ mà lười code \~@@~**
 
 5. - [x] [Find All Paths between 2 Nodes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Find_AllPaths_BFS.ipynb): Find All Paths between 2 Nodes in a Unweighted Graph using BFS - **NP-Hard** 
 
