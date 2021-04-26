@@ -162,7 +162,7 @@ I create this for faster implementation and better preparation in interviews as 
 17. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
 ### F) Two Pointers - Sliding Window
-#### Non-categorized
+#### :book: Non-categorized
 1. - [x] [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>: Find the Length of the Longest Substring Without Repeating Characters  - **O(|S|)**
 
 ### G) Mathematics
