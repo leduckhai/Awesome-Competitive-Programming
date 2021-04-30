@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/Last%20updated%20on-29.04.2021-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Last%20updated%20on-30.04.2021-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
 </p>
 
@@ -22,7 +22,7 @@ I create this for faster implementation and better preparation in interviews as 
 
 :warning: This repo is day-by-day updated. Please make sure you have the latest version!
 
-:fire: **New updates today: [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>:**
+:fire: **New updates today: [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>**
 
 <p align="center"> 
       <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
