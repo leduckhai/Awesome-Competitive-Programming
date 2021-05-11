@@ -224,7 +224,7 @@ Else
 6. - [x] [Permutation Check](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/arePermutations.ipynb): Check if 2 Numbers/Strings are Permutations - **O(n)** , n = max(|a|,|b|)
 
 #### :orange_book: Primes Problems
-7. - [x] ["Sieve Method" All Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_All_Primes.ipynb): Find All Primes < n - **O(n<sup>1/2</sup>)**
+7. - [x] ["Sieve Method" All Primes](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Sieve_All_Primes.ipynb): Find All Primes < n - **Space = O(n<sup>1/2</sup>)**
 
 8. - [x] [Primality Test (Common Method)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/isPrime.ipynb): Check if n is a Prime Number using "Common Method" - **O(n<sup>1/2</sup>)**
 
