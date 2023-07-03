@@ -1,6 +1,6 @@
 # Awesome Competitive Programming Problems
 
-> Please press ⭐ button if you like this repo ❤. Thấy ngon thì nhấn star ⭐ ủng hộ mình nha các đồng dâm ❤
+> Please press ⭐ button if you like this repo ❤. Thấy ngon thì nhấn star ⭐ ủng hộ mình nha các đồng râm ❤
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Python%203-orange?style=for-the-badge"> 
