@@ -256,9 +256,9 @@ Else
 #### Singly-linked List
 1. - [x] [List Node](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode.ipynb): Create a Singly-linked List using "Node class"
 
-2. - [x] [ListNode to Array](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode_to_Array.ipynb): Convert ListNode into Array, could be used as print to "see" inside a ListNode
+2. - [x] [ListNode to Array](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode_to_Array.ipynb): Convert ListNode into Array, could be used as print to "see" inside a ListNode - **O(n)**
          
-3. - [x] [Array to ListNode](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/Array_to_ListNode.ipynb): Convert Array into ListNode
+3. - [x] [Array to ListNode](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/Array_to_ListNode.ipynb): Convert Array into ListNode - **O(n)**
          
 ### Recursion Algorithm
 
