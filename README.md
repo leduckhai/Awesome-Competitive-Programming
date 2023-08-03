@@ -251,6 +251,11 @@ Else
 #### :book: Non-categorized
 18. - [x] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
+
+### Linked List
+#### Singly-linked List
+1. - [x] [List Node](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode.ipynb): Create a dSingly-linked List using "Node class"
+
 ### Recursion Algorithm
 
 #### Backtracking
