@@ -81,6 +81,7 @@ Else
 ```
 
 Leetcode Patterns
+----------
 
 ```
 Linked list:
@@ -90,6 +91,7 @@ Matrix:
       - BFS/DFS: /TODO/
       - Matrix traversal: /TODO/
 ```
+
 :watermelon: Algorithms
 ----------
 ### A) Data Structures Applications
