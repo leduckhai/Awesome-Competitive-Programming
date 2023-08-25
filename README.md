@@ -80,6 +80,16 @@ Else
     - Sort input for O(nlogn) time and O(1) space
 ```
 
+Leetcode Patterns
+
+```
+Linked list:
+      - Convert to 1D array then simply solve
+
+Matrix:
+      - BFS/DFS: /TODO/
+      - Matrix traversal: /TODO/
+```
 :watermelon: Algorithms
 ----------
 ### A) Data Structures Applications
