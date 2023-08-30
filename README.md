@@ -100,15 +100,12 @@ Matrix x Simulation:
 - Examples: [TODO](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST.ipynb)
       
 - Hint:
-      ```
   
       1. Use variable <mark>flag = 'up' or 'down'</mark> ... to guide the current position to the next position
-
       2. Pay attention to the matrix boundary when moving: 0 <= r <= R-1 and 0 <= c <= C-1 where R, C is the number of matrix rows and columns
-
       3. Use variable seen = set() to not ... /TODO/
   
-      ```
+Linked List
   
 :watermelon: Algorithms
 ----------
