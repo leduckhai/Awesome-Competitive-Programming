@@ -79,33 +79,6 @@ Else
     - Map/Set for O(1) time & O(n) space
     - Sort input for O(nlogn) time and O(1) space
 ```
-
-Leetcode Patterns
-----------
-
-```
-Linked list:
-      - Convert to 1D array then simply solve
-
-Matrix:
-      - BFS/DFS: /TODO/
-      - Matrix traversal: /TODO/
-
-```
-
-Matrix x Simulation:
-
-- Problem statement: Move current position within the matrix along diagonals, up-down-right-left, ...
-      
-- Examples: [TODO](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST.ipynb)
-      
-- Hint:
-  
-      1. Use variable <mark>flag = 'up' or 'down'</mark> ... to guide the current position to the next position
-      2. Pay attention to the matrix boundary when moving: 0 <= r <= R-1 and 0 <= c <= C-1 where R, C is the number of matrix rows and columns
-      3. Use variable seen = set() to not ... /TODO/
-  
-Linked List
   
 :watermelon: Algorithms
 ----------
@@ -280,13 +253,53 @@ Linked List
 
 
 ### H) Linked List
-#### Singly-linked List
+#### :snake: Singly-linked List
+> Problem statement: Do something on a given singly-linked List
+
+> Hints:
+> 1. Simply convert linked list to 1D array and solve on the array using "ListNode_to_Array"
+> 2. If necessary, convert 1D array back to the linked list using "Array_to_ListNode"
 1. - [x] [List Node](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode.ipynb): Create a Singly-linked List using "Node class"
 
 2. - [x] [ListNode to Array](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/ListNode_to_Array.ipynb): Convert ListNode into Array, could be used as print to "see" inside a ListNode - **O(n)**
          
 3. - [x] [Array to ListNode](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/Array_to_ListNode.ipynb): Convert Array into ListNode - **O(n)**
-         
+
+### I) Matrix
+#### :computer: Matrix x Simulation
+> Problem statement: Move current position within the matrix along diagonals, up-down-right-left, ...
+
+> Hints:
+> 1. Use variable flag = 'up' or 'down' ... to guide the current position to the next position
+>
+> ```python
+> if flag == 'up':
+>   # Do something
+>   # Consider to change the flag = 'down' or 'right' or 'something'
+> ```
+> 2. Pay attention to the matrix boundary when moving
+>    
+> ```python
+> def inMatrix(r,c):
+>   # R, C is the matrix size
+>   # r, c is current position
+>   if r >= 0 and c >= 0 and r < R and c < C:
+>     return True
+>   else:
+>     return False
+> ```
+> 3. Use variable seen = set() to not move to the seen position or to not start as a current position
+>
+> ```python
+> if (r,c) not in seen:
+>   # Do something
+> ```
+1. - [x] [Spiral Matrix](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Matrix/Spiral_Matrix.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/spiral-matrix)</sup>: Find all elements of the matrix in spiral order - **O(R.C)**
+
+2. - [x] [Diagonal_Traverse](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Matrix/Diagonal_Traverse.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/diagonal-traverse)</sup>: Find all the elements of the array in a diagonal order - **O(R.C)**
+  
+#### Matrix x Graph
+
 ### Recursion Algorithm
 
 #### Backtracking
