@@ -80,7 +80,7 @@ Else
     - Sort input for O(nlogn) time and O(1) space
 ```
   
-:watermelon: Algorithms
+:watermelon: Data structures, Algorithms and Patterns
 ----------
 ### A) Data Structures Applications
 #### :palm_tree: Binary Search Tree Algorithm
@@ -90,6 +90,7 @@ Else
 
 3. - [x] [Binary Search Tree: Index of a Number](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Structures%20Applications/BST_Find_Index.ipynb): Find the Index of a Number in a Sorted List using BST Algorithm - **O(log(n))**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### B) String Algorithm
 #### :ear_of_rice: Suffix Tree - Suffix Array
 1. - [x] [Suffix Array (Manber-Myers Algorithm)](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/String%20Algorithm/SuffixArray_ManberMyers.ipynb): Find suffix array of a string S based on Manber-Myers algorithm - **O(n.log(n))** , n = |S|
@@ -100,6 +101,7 @@ Else
 
 4. - [ ] Pattern Search - **O(log(n))**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### C) Searching and Graph Algorithms
 #### :snowflake: Graph Theory
 1. - [x] [Graph Representation using Adjacency List: Unweighted, Un-/Directed](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Searching%20and%20Graph%20Algorithms/Graph_AdjacencyList.ipynb): Create a Unweighted Un-/Directed Graph using Adjacency List
@@ -144,6 +146,7 @@ Else
 
 15. - [ ] Shortest Path: Floyd-Warshall 
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### D) Greedy Algorithm
 1. [Sherlock and The Beast](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Sherlock_and_The_Beast.ipynb)
 - Find the "Decent Number" having n Digits ("Decent Number" has its digits to be only 3's and/or 5's; the number of 3's it contains is divisible by 5; the number of 5's it contains is divisible by 3; and it is the largest such number for its length)
@@ -151,6 +154,7 @@ Else
 2. [Largest Permutation](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Greedy%20Algorithm/Largest_Permutation.ipynb)
 - Swap 2 digits of a number k times to get largest number - **O(n)**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### E) Dynamic Programming
 > **Coin Change Algorithms**: Given an array of choices, every choice is picked **unlimited times** 
 > 
@@ -202,10 +206,12 @@ Else
 
 17. - [x] [Sum Of Substrings](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Dynamic%20Programming/SumOfSubstrings.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/SumOfSubstrings.pdf)</sup>: Find Sum of All Substrings of an Number String S - **O(|S|)**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### F) Two Pointers - Sliding Window
 #### :book: Non-categorized
 1. - [x] [Longest Substring Without Repeating Characters](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Two%20Pointers%20-%20Sliding%20Window/LongestSubstring_0RepeatChars.ipynb)<sup>[[Leetcode]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</sup>: Find the Length of the Longest Substring Without Repeating Characters  - **O(|S|)**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### G) Mathematics
 #### :blue_book: Binomial Coefficient Problems
 1. - [x] [Pascal Triangle](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Pascal_Triangle.ipynb): Create Pascal Triangle (to Calculate Multiple Large-Number Combinations) - **O(n<sup>2</sup>)**
@@ -251,7 +257,7 @@ Else
 #### :book: Non-categorized
 18. - [x] [Number Spiral Diagonals](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Mathematics/Number_Spiral_Diagonals.ipynb)<sup>[[PDF]](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Number_Spiral_Diagonals.pdf)</sup>: Find Sum of Diagonals of Ulam Spiral Matrix
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 ### H) Linked List
 #### :snake: Singly-linked List
 > Problem statement: Do something on a given singly-linked List
@@ -265,6 +271,7 @@ Else
          
 3. - [x] [Array to ListNode](https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Linked%20List/Array_to_ListNode.ipynb): Convert Array into ListNode - **O(n)**
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### I) Matrix
 #### :computer: Matrix x Simulation
 > Problem statement: Move current position within the matrix along diagonals, up-down-right-left, ...
@@ -300,6 +307,7 @@ Else
   
 #### Matrix x Graph
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ### Recursion Algorithm
 
 #### Backtracking
